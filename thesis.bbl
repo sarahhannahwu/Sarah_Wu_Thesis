@@ -1,0 +1,202 @@
+\begin{thebibliography}{39}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{}\fi
+
+\bibitem[{Abu-Akel et~al.(2020)Abu-Akel, Apperly, Wood, \& Hansen}]{abu2020re}
+Abu-Akel, A.~M., Apperly, I.~A., Wood, S.~J., \& Hansen, P.~C. (2020).
+\newblock Re-imaging the intentional stance.
+\newblock {\em Proceedings of the Royal Society B\/}, {\em 287\/}(1925), 20200244.
+
+\bibitem[{Anglada-Tort et~al.(2019)Anglada-Tort, Steffens, \& M{\"u}llensiefen}]{anglada2019names}
+Anglada-Tort, M., Steffens, J., \& M{\"u}llensiefen, D. (2019).
+\newblock Names and titles matter: The impact of linguistic fluency and the affect heuristic on aesthetic and value judgements of music.
+\newblock {\em Psychology of Aesthetics, Creativity, and the Arts\/}, {\em 13\/}(3), 277.
+
+\bibitem[{Bloom \& Markson(1998)}]{bloom1998intention}
+Bloom, P., \& Markson, L. (1998).
+\newblock Intention and analogy in children's naming of pictorial representations.
+\newblock {\em Psychological Science\/}, {\em 9\/}(3), 200--204.
+
+\bibitem[{Boden(1998)}]{boden1998creativity}
+Boden, M.~A. (1998).
+\newblock Creativity and artificial intelligence.
+\newblock {\em Artificial intelligence\/}, {\em 103\/}(1-2), 347--356.
+
+\bibitem[{Chamberlain et~al.(2018)Chamberlain, Mullin, Scheerlinck, \& Wagemans}]{chamberlain2018putting}
+Chamberlain, R., Mullin, C., Scheerlinck, B., \& Wagemans, J. (2018).
+\newblock Putting the art in artificial: Aesthetic responses to computer-generated art.
+\newblock {\em Psychology of Aesthetics, Creativity, and the Arts\/}, {\em 12\/}(2), 177.
+
+\bibitem[{Crompton \& MacPherson(2019)}]{crompton2019human}
+Crompton, C.~J., \& MacPherson, S.~E. (2019).
+\newblock Human agency beliefs affect older adults' interaction behaviours and task performance when learning with computerised partners.
+\newblock {\em Computers in Human Behavior\/}, {\em 101\/}, 60--67.
+
+\bibitem[{Dennett(1989)}]{dennett1989intentional}
+Dennett, D.~C. (1989).
+\newblock {\em The Intentional Stance\/}.
+\newblock MIT press.
+
+\bibitem[{Dhariwal et~al.(2020)Dhariwal, Jun, Payne, Kim, Radford, \& Sutskever}]{dhariwal2020jukebox}
+Dhariwal, P., Jun, H., Payne, C., Kim, J.~W., Radford, A., \& Sutskever, I. (2020).
+\newblock Jukebox: A generative model for music.
+\newblock {\em arXiv preprint arXiv:2005.00341\/}.
+
+\bibitem[{Fischinger et~al.(2020)Fischinger, Kaufmann, \& Schlotz}]{fischinger2020if}
+Fischinger, T., Kaufmann, M., \& Schlotz, W. (2020).
+\newblock If it’s {Mozart}, it must be good? the influence of textual information and age on musical appreciation.
+\newblock {\em Psychology of Music\/}, {\em 48\/}(4), 579--597.
+
+\bibitem[{Friedman \& Taylor(2014)}]{friedman2014exploring}
+Friedman, R.~S., \& Taylor, C.~L. (2014).
+\newblock Exploring emotional responses to computationally-created music.
+\newblock {\em Psychology of Aesthetics, Creativity, and the Arts\/}, {\em 8\/}(1), 87.
+
+\bibitem[{Geraci et~al.(2021)Geraci, Rigo, Simonelli, Di~Nuovo, \& Simion}]{geraci2021preschoolers}
+Geraci, A., Rigo, P., Simonelli, A., Di~Nuovo, S., \& Simion, F. (2021).
+\newblock Preschoolers' evaluations of comforting actions towards third parties in different relationship contexts.
+\newblock {\em Journal of Applied Developmental Psychology\/}, {\em 76\/}, 101315.
+
+\bibitem[{Grace et~al.(2019)Grace, Huberth, \& Fujioka}]{grace2019effects}
+Grace, V., Huberth, M., \& Fujioka, T. (2019).
+\newblock Effects of extramusical information and human presence on perceived emotion intensity in electronic music.
+\newblock {\em Psychomusicology: Music, Mind, and Brain\/}, {\em 29\/}(2-3), 117.
+
+\bibitem[{Hard et~al.(2019)Hard, Meyer, \& Baldwin}]{hard2019attention}
+Hard, B.~M., Meyer, M., \& Baldwin, D. (2019).
+\newblock Attention reorganizes as structure is detected in dynamic action.
+\newblock {\em Memory \& Cognition\/}, {\em 47\/}, 17--32.
+
+\bibitem[{Hawley-Dolan \& Winner(2011)}]{hawley2011seeing}
+Hawley-Dolan, A., \& Winner, E. (2011).
+\newblock Seeing the mind behind the art: People can distinguish abstract expressionist paintings from highly similar paintings by children, chimps, monkeys, and elephants.
+\newblock {\em Psychological Science\/}, {\em 22\/}(4), 435--441.
+
+\bibitem[{Heider \& Simmel(1944)}]{heider1944experimental}
+Heider, F., \& Simmel, M. (1944).
+\newblock An experimental study of apparent behavior.
+\newblock {\em The American Journal of Psychology\/}, {\em 57\/}(2), 243--259.
+
+\bibitem[{Hiller(1959)}]{hiller1959computer}
+Hiller, L.~A. (1959).
+\newblock Computer music.
+\newblock {\em Scientific American\/}, {\em 201\/}(6), 109--121.
+
+\bibitem[{Hiller~Jr \& Isaacson(1958)}]{hiller1958musical}
+Hiller~Jr, L.~A., \& Isaacson, L.~M. (1958).
+\newblock Musical composition with a high-speed digital computer.
+\newblock {\em Journal of the Audio Engineering Society\/}, {\em 6\/}(3), 154--160.
+
+\bibitem[{Hong et~al.(2022)Hong, Fischer, Ha, \& Zeng}]{hong2022human}
+Hong, J.-W., Fischer, K., Ha, Y., \& Zeng, Y. (2022).
+\newblock Human, {I} wrote a song for you: {An} experiment testing the influence of machines’ attributes on the {AI}-composed music evaluation.
+\newblock {\em Computers in Human Behavior\/}, {\em 131\/}, 107239.
+
+\bibitem[{Jucker et~al.(2014)Jucker, Barrett, \& Wlodarski}]{jucker2014just}
+Jucker, J.-L., Barrett, J.~L., \& Wlodarski, R. (2014).
+\newblock “{I} just don't get it”: Perceived artists' intentions affect art evaluations.
+\newblock {\em Empirical Studies of the Arts\/}, {\em 32\/}(2), 149--182.
+
+\bibitem[{Landauer \& Dumais(1997)}]{landauer1997solution}
+Landauer, T.~K., \& Dumais, S.~T. (1997).
+\newblock A solution to plato's problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge.
+\newblock {\em Psychological Review\/}, {\em 104\/}(2), 211.
+
+\bibitem[{Lupyan et~al.(2020)Lupyan, Rahman, Boroditsky, \& Clark}]{lupyan2020effects}
+Lupyan, G., Rahman, R.~A., Boroditsky, L., \& Clark, A. (2020).
+\newblock Effects of language on visual perception.
+\newblock {\em Trends in Cognitive Sciences\/}, {\em 24\/}(11), 930--944.
+
+\bibitem[{Marchesi et~al.(2019)Marchesi, Ghiglino, Ciardo, Perez-Osorio, Baykara, \& Wykowska}]{marchesi2019we}
+Marchesi, S., Ghiglino, D., Ciardo, F., Perez-Osorio, J., Baykara, E., \& Wykowska, A. (2019).
+\newblock Do we adopt the intentional stance toward humanoid robots?
+\newblock {\em Frontiers in Psychology\/}, {\em 10\/}, 450.
+
+\bibitem[{Margulis et~al.(2022{\natexlab{a}})Margulis, Williams, Simchy-Gross, \& McAuley}]{margulis2022did}
+Margulis, E.~H., Williams, J., Simchy-Gross, R., \& McAuley, J.~D. (2022{\natexlab{a}}).
+\newblock When did that happen? the dynamic unfolding of perceived musical narrative.
+\newblock {\em Cognition\/}, {\em 226\/}, 105180.
+
+\bibitem[{Margulis et~al.(2019)Margulis, Wong, Simchy-Gross, \& McAuley}]{margulis2019music}
+Margulis, E.~H., Wong, P.~C., Simchy-Gross, R., \& McAuley, J.~D. (2019).
+\newblock What the music said: Narrative listening across cultures.
+\newblock {\em Palgrave Communications\/}, {\em 5\/}(1).
+
+\bibitem[{Margulis et~al.(2022{\natexlab{b}})Margulis, Wong, Turnbull, Kubit, \& McAuley}]{margulis2022narratives}
+Margulis, E.~H., Wong, P.~C., Turnbull, C., Kubit, B.~M., \& McAuley, J.~D. (2022{\natexlab{b}}).
+\newblock Narratives imagined in response to instrumental music reveal culture-bounded intersubjectivity.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em 119\/}(4), e2110406119.
+
+\bibitem[{Mikolov et~al.(2013)Mikolov, Chen, Corrado, \& Dean}]{mikolov2013efficient}
+Mikolov, T., Chen, K., Corrado, G., \& Dean, J. (2013).
+\newblock Efficient estimation of word representations in vector space.
+\newblock {\em arXiv preprint arXiv:1301.3781\/}.
+
+\bibitem[{Morewedge(2022)}]{morewedge2022preference}
+Morewedge, C.~K. (2022).
+\newblock Preference for human, not algorithm aversion.
+\newblock {\em Trends in Cognitive Sciences\/}.
+
+\bibitem[{Oore et~al.(2020)Oore, Simon, Dieleman, Eck, \& Simonyan}]{oore2020time}
+Oore, S., Simon, I., Dieleman, S., Eck, D., \& Simonyan, K. (2020).
+\newblock This time with feeling: Learning expressive musical performance.
+\newblock {\em Neural Computing and Applications\/}, {\em 32\/}, 955--967.
+
+\bibitem[{Pantelis et~al.(2016)Pantelis, Gerstner, Sanik, Weinstein, Cholewiak, Kharkwal, Wu, \& Feldman}]{pantelis2016agency}
+Pantelis, P.~C., Gerstner, T., Sanik, K., Weinstein, A., Cholewiak, S.~A., Kharkwal, G., Wu, C.-C., \& Feldman, J. (2016).
+\newblock Agency and rationality: Adopting the intentional stance toward evolved virtual agents.
+\newblock {\em Decision\/}, {\em 3\/}(1), 40.
+
+\bibitem[{Pelowski et~al.(2017)Pelowski, Gerger, Chetouani, Markey, \& Leder}]{pelowski2017but}
+Pelowski, M., Gerger, G., Chetouani, Y., Markey, P.~S., \& Leder, H. (2017).
+\newblock But is it really art? {The} classification of images as {“Art”/“Not Art”} and correlation with appraisal and viewer interpersonal differences.
+\newblock {\em Frontiers in Psychology\/}, {\em 8\/}, 1729.
+
+\bibitem[{Ramesh et~al.(2021)Ramesh, Pavlov, Goh, Gray, Voss, Radford, Chen, \& Sutskever}]{ramesh2021zero}
+Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., Chen, M., \& Sutskever, I. (2021).
+\newblock Zero-shot text-to-image generation.
+\newblock In {\em International Conference on Machine Learning\/}, (pp. 8821--8831). PMLR.
+
+\bibitem[{Roose(2022)}]{Roose:2022}
+Roose, K. (2022).
+\newblock An {A.I.}-generated picture won an art prize. {Artists} aren’t happy.
+\newblock {\em The New York Times\/}.
+
+\bibitem[{Salimpoor et~al.(2015)Salimpoor, Zald, Zatorre, Dagher, \& McIntosh}]{salimpoor2015predictions}
+Salimpoor, V.~N., Zald, D.~H., Zatorre, R.~J., Dagher, A., \& McIntosh, A.~R. (2015).
+\newblock Predictions and the brain: How musical sounds become rewarding.
+\newblock {\em Trends in Cognitive Sciences\/}, {\em 19\/}(2), 86--91.
+
+\bibitem[{Shank et~al.(2022)Shank, Stefanik, Stuhlsatz, Kacirek, \& Belfi}]{shank2022ai}
+Shank, D.~B., Stefanik, C., Stuhlsatz, C., Kacirek, K., \& Belfi, A.~M. (2022).
+\newblock {AI} composer bias: Listeners like music less when they think it was composed by an {AI}.
+\newblock {\em Journal of Experimental Psychology: Applied\/}.
+
+\bibitem[{Simonton(1995)}]{simonton1995drawing}
+Simonton, D.~K. (1995).
+\newblock Drawing inferences from symphonic programs: Musical attributes versus listener attributions.
+\newblock {\em Music Perception\/}, {\em 12\/}(3), 307--322.
+
+\bibitem[{Stanley et~al.(2007)Stanley, Gowen, \& Miall}]{stanley2007effects}
+Stanley, J., Gowen, E., \& Miall, R.~C. (2007).
+\newblock Effects of agency on movement interference during observation of a moving dot stimulus.
+\newblock {\em Journal of Experimental Psychology: Human Perception and Performance\/}, {\em 33\/}(4), 915.
+
+\bibitem[{Steinbeis \& Koelsch(2009)}]{steinbeis2009understanding}
+Steinbeis, N., \& Koelsch, S. (2009).
+\newblock Understanding the intentions behind man-made products elicits neural activity in areas dedicated to mental state attribution.
+\newblock {\em Cerebral Cortex\/}, {\em 19\/}(3), 619--623.
+
+\bibitem[{Tan \& Kelly(2004)}]{tan2004graphic}
+Tan, S.-L., \& Kelly, M.~E. (2004).
+\newblock Graphic representations of short musical compositions.
+\newblock {\em Psychology of Music\/}, {\em 32\/}(2), 191--212.
+
+\bibitem[{Vuoskoski \& Eerola(2015)}]{vuoskoski2015extramusical}
+Vuoskoski, J.~K., \& Eerola, T. (2015).
+\newblock Extramusical information contributes to emotions induced by music.
+\newblock {\em Psychology of Music\/}, {\em 43\/}(2), 262--274.
+
+\end{thebibliography}
