@@ -1,4 +1,4 @@
-\begin{thebibliography}{39}
+\begin{thebibliography}{40}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -8,6 +8,11 @@
 Abu-Akel, A.~M., Apperly, I.~A., Wood, S.~J., \& Hansen, P.~C. (2020).
 \newblock Re-imaging the intentional stance.
 \newblock {\em Proceedings of the Royal Society B\/}, {\em 287\/}(1925), 20200244.
+
+\bibitem[{Alm{\'e}n(2017)}]{almen2017theory}
+Alm{\'e}n, B. (2017).
+\newblock {\em A theory of musical narrative\/}.
+\newblock Indiana University Press.
 
 \bibitem[{Anglada-Tort et~al.(2019)Anglada-Tort, Steffens, \& M{\"u}llensiefen}]{anglada2019names}
 Anglada-Tort, M., Steffens, J., \& M{\"u}llensiefen, D. (2019).
@@ -36,7 +41,7 @@ Crompton, C.~J., \& MacPherson, S.~E. (2019).
 
 \bibitem[{Dennett(1989)}]{dennett1989intentional}
 Dennett, D.~C. (1989).
-\newblock {\em The Intentional Stance\/}.
+\newblock {\em The intentional stance\/}.
 \newblock MIT press.
 
 \bibitem[{Dhariwal et~al.(2020)Dhariwal, Jun, Payne, Kim, Radford, \& Sutskever}]{dhariwal2020jukebox}
@@ -101,7 +106,7 @@ Jucker, J.-L., Barrett, J.~L., \& Wlodarski, R. (2014).
 
 \bibitem[{Landauer \& Dumais(1997)}]{landauer1997solution}
 Landauer, T.~K., \& Dumais, S.~T. (1997).
-\newblock A solution to plato's problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge.
+\newblock A solution to {Plato's} problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge.
 \newblock {\em Psychological Review\/}, {\em 104\/}(2), 211.
 
 \bibitem[{Lupyan et~al.(2020)Lupyan, Rahman, Boroditsky, \& Clark}]{lupyan2020effects}
@@ -116,7 +121,7 @@ Marchesi, S., Ghiglino, D., Ciardo, F., Perez-Osorio, J., Baykara, E., \& Wykows
 
 \bibitem[{Margulis et~al.(2022{\natexlab{a}})Margulis, Williams, Simchy-Gross, \& McAuley}]{margulis2022did}
 Margulis, E.~H., Williams, J., Simchy-Gross, R., \& McAuley, J.~D. (2022{\natexlab{a}}).
-\newblock When did that happen? the dynamic unfolding of perceived musical narrative.
+\newblock When did that happen? {The} dynamic unfolding of perceived musical narrative.
 \newblock {\em Cognition\/}, {\em 226\/}, 105180.
 
 \bibitem[{Margulis et~al.(2019)Margulis, Wong, Simchy-Gross, \& McAuley}]{margulis2019music}
