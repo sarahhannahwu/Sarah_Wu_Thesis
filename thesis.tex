@@ -235,9 +235,33 @@ I pre-registered my methods and analysis plan on AsPredicted.org (\url{https://a
 One hundred U.S. participants were recruited from Amazon Mechanical Turk (MTurk) via the CloudResearch participant-sourcing platform. All participants had a strong performance record on MTurk ($\ge95\%$ approval on $\ge100$ prior studies). Based on an attention check at the start of the study, one participant was excluded from participating. The final sample ranged in age from 20 to 70 years old (\emph{M} = 40.7, \emph{SD} = 11.6), with 59\% identifying as male and 41\% as female. Participants reported the following racial/ethnic identities: 64\% White, 15\% African American/Black, 8\% Asian/Asian American/Indian, 4\% Hispanic/Latinx, 4\% multiracial, and 5\% other identities. Across the sample, participants had 0-15 years of experience playing an instrument (\emph{M} = 1.42, \emph{SD} = 2.35) and little experience with music theory (\emph{M} = 0.72 years, \emph{SD} = 1.51). Participants were compensated \$2 for their time. 
 
 \subsection*{Materials}
-Six 60-second Western instrumental music clips were selected from Margulis et al. (2022b). In a prior rating study (Margulis et al., 2019), three of the clips were classified as relatively high in narrative engagement, and three were classified as relatively low (see Table 1). The clips were from pieces that varied in their instrumentations and in stimulus features such as contrast and topicality (Margulis et al., 2022b; McAuley et al., 2021).
+Six 60-second Western instrumental music clips were selected from Margulis et al. (2022b). In a prior rating study (Margulis et al., 2019), three of the clips were classified as relatively high in narrative engagement, and three were classified as relatively low (see Table~\ref*{table-stimuli}). The clips were from pieces that varied in their instrumentations and in stimulus features such as contrast and topicality (Margulis et al., 2022b; McAuley et al., 2021).
 
 To equate the timbres of the pieces, I rendered all of them in a synthesized format. To do so, for each piece I found its corresponding MIDI file—the standard file format that stores instructions to reproduce the notes in a musical score (e.g., tempo, time signatures, musical pitches, rhythms, dynamics). I then imported the MIDI files into the electronic music software GarageBand and selected the same one-minute excerpts used by Margulis et al. (2022b).
+
+
+\begin{table}[h]
+	\caption {\emph{Music Clips in Studies 1 and 2}} \label{table-stimuli}
+	\bigskip
+	\begin{tabular}{c c c}
+	\toprule
+	Piece and Composer & Narrativity (SRQ) & Narrative Engagement (NE) \\
+	\hline
+	\emph{In the Mystic Land of Egypt}, Ketélbey & 0.88 & 4.69 \\
+	\hline
+	\emph{Gaspard de la Nuit}, Ravel & 0.73 & 3.82 \\
+	\hline
+	\emph{Egmont Overture}, Beethoven & 0.68 & 3.93 \\ 
+	\hline
+	\emph{Piano Sonata No. 7}, Mozart & 0.53 & 3.43 \\
+	\hline
+	\emph{Suite, Op. 29}, Schoenberg & 0.43 & 2.82 \\
+	\hline
+	\emph{En Blanc et Noir}, Debussy & 0.40 & 2.82 \\
+	\bottomrule
+	\end{tabular}\par
+	\end{table}
+	
 
 \subsection*{Procedure}
 
@@ -283,7 +307,8 @@ I also conducted an additional exploratory analysis to examine whether perceived
 
 \begin{table}[h]
 \centering
-\caption {By-Item Logistic Regression Results in Study 1, Predicting SRQ from Weighted Composer Identity Scores} \label{table-CI-SRQ}
+\caption {\emph{By-Item Logistic Regression Results in Study 1, Predicting SRQ from Weighted Composer Identity Scores}} \label{table-CI-SRQ}
+\bigskip
 \begin{tabular}{c c c}
 \toprule
 Composer & \emph{b} & \emph{p} \\
@@ -301,8 +326,8 @@ Ravel & 0.005 & .10 \\
 Schoenberg & 0.01 & .002** \\
 \bottomrule
 \end{tabular}\par
-\caption{$*p < .05 \\ ** p < .01$
-}
+\bigskip
+\small\textit{}$*p < .05 ** p < .01$
 \end{table}
 
 

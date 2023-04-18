@@ -370,6 +370,7 @@ OUTPUT thesis.toc
 INPUT ./thesis.lot
 INPUT thesis.lot
 INPUT thesis.lot
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 OUTPUT thesis.lot
 INPUT ./thesis.lof
 INPUT thesis.lof
@@ -387,7 +388,6 @@ INPUT ./DALLE_tired_student1.png
 INPUT DALLE_tired_student1.png
 INPUT ./DALLE_tired_student1.png
 INPUT ./DALLE_tired_student1.png
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
@@ -402,6 +402,14 @@ INPUT ./CI_differences.png
 INPUT CI_differences.png
 INPUT ./CI_differences.png
 INPUT ./CI_differences.png
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT ./weighted_dist.png
 INPUT ./weighted_dist.png
 INPUT weighted_dist.png
@@ -418,7 +426,9 @@ INPUT ./thesis.bbl
 INPUT thesis.bbl
 INPUT thesis.aux
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
