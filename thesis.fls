@@ -1,8 +1,8 @@
-PWD /Users/sarahwu/Desktop/Thesis
+PWD /Users/sarahwu/Desktop/Thesis Github
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/sarahwu/Desktop/Thesis/thesis.tex
+INPUT /Users/sarahwu/Desktop/Thesis Github/thesis.tex
 OUTPUT thesis.log
 INPUT ./reedthesis.cls
 INPUT ./reedthesis.cls
