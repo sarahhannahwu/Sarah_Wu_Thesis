@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.2)  17 APR 2023 18:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.2)  17 APR 2023 19:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -358,12 +358,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-<DALLE_tired_student.png, id=88, 1027.84pt x 1027.84pt>
+<DALLE_tired_student.png, id=90, 1027.84pt x 1027.84pt>
 File: DALLE_tired_student.png Graphic file (type png)
 <use DALLE_tired_student.png>
 Package pdftex.def Info: DALLE_tired_student.png  used on input line 177.
 (pdftex.def)             Requested size: 154.16934pt x 154.16934pt.
-<DALLE_tired_student1.png, id=89, 1027.84pt x 1027.84pt>
+<DALLE_tired_student1.png, id=91, 1027.84pt x 1027.84pt>
 File: DALLE_tired_student1.png Graphic file (type png)
 <use DALLE_tired_student1.png>
 Package pdftex.def Info: DALLE_tired_student1.png  used on input line 178.
@@ -505,14 +505,11 @@ File: omlcmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 270.
-<CI_differences.png, id=132, 803.0pt x 499.8675pt>
+<CI_differences.png, id=133, 803.0pt x 499.8675pt>
 File: CI_differences.png Graphic file (type png)
 <use CI_differences.png>
 Package pdftex.def Info: CI_differences.png  used on input line 276.
 (pdftex.def)             Requested size: 401.49902pt x 249.93314pt.
-
-
-LaTeX Warning: Reference `table-CI-SRQ' on page 19 undefined on input line 281.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -522,6 +519,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [19 <./CI_differences.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -530,7 +530,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1997) has occurred while \output is active []
 
 
 
@@ -541,9 +541,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -555,7 +552,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <weighted_dist.png, id=148, 702.625pt x 654.445pt>
 File: weighted_dist.png Graphic file (type png)
 <use weighted_dist.png>
-Package pdftex.def Info: weighted_dist.png  used on input line 334.
+Package pdftex.def Info: weighted_dist.png  used on input line 337.
 (pdftex.def)             Requested size: 281.04501pt x 261.77336pt.
 
 
@@ -587,22 +584,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [25] [26
 
 ]
-Overfull \hbox (27.18777pt too wide) in paragraph at lines 355--356
+Overfull \hbox (27.18777pt too wide) in paragraph at lines 358--359
 \OT1/cmr/m/n/12 I pre-registered my meth-ods and anal-y-sis plan on As-Pre-dicted.org ($\OT1/cmtt/m/n/12 https : / / aspredicted .
  []
 
 
-Overfull \hbox (19.35587pt too wide) in paragraph at lines 358--359
+Overfull \hbox (19.35587pt too wide) in paragraph at lines 361--362
 \OT1/cmr/m/n/12 One hun-dred U.S. par-tic-i-pants were re-cruited from Ama-zon MTurk via the CloudResearch
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--364
+Underfull \hbox (badness 10000) in paragraph at lines 365--367
 
  []
 
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 365--367
+Underfull \hbox (badness 10000) in paragraph at lines 368--370
 
  []
 
@@ -629,10 +626,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <intention_SRQ_by_piece.png, id=173, 903.375pt x 698.61pt>
 File: intention_SRQ_by_piece.png Graphic file (type png)
 <use intention_SRQ_by_piece.png>
-Package pdftex.def Info: intention_SRQ_by_piece.png  used on input line 395.
+Package pdftex.def Info: intention_SRQ_by_piece.png  used on input line 398.
 (pdftex.def)             Requested size: 451.6864pt x 349.30414pt.
 
-Overfull \hbox (18.0664pt too wide) in paragraph at lines 395--396
+Overfull \hbox (18.0664pt too wide) in paragraph at lines 398--399
  [][] 
  []
 
@@ -644,7 +641,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
-Overfull \hbox (8.3005pt too wide) in paragraph at lines 401--402
+Overfull \hbox (8.3005pt too wide) in paragraph at lines 404--405
 \OT1/cmr/m/n/12 To ex-plore the con-tent of par-tic-i-pants' imag-ined nar-ra-tives, I as-sessed whether word2vec
  []
 
@@ -698,11 +695,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[37] (./thesis.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[37] (./thesis.aux) ) 
 Here is how much of TeX's memory you used:
  3971 strings out of 476025
  61128 string characters out of 5790018
@@ -712,7 +705,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,12n,69p,1529b,390s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on thesis.pdf (57 pages, 3773715 bytes).
+Output written on thesis.pdf (57 pages, 3774235 bytes).
 PDF statistics:
  239 PDF objects out of 1000 (max. 8388607)
  154 compressed objects within 2 object streams
