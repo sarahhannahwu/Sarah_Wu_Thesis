@@ -1,4 +1,4 @@
-\begin{thebibliography}{40}
+\begin{thebibliography}{43}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -29,6 +29,11 @@ Boden, M.~A. (1998).
 \newblock Creativity and artificial intelligence.
 \newblock {\em Artificial intelligence\/}, {\em 103\/}(1-2), 347--356.
 
+\bibitem[{Boden(2010)}]{boden2010turing}
+Boden, M.~A. (2010).
+\newblock The turing test and artistic creativity.
+\newblock {\em Kybernetes\/}, {\em 39\/}(3), 409--413.
+
 \bibitem[{Chamberlain et~al.(2018)Chamberlain, Mullin, Scheerlinck, \& Wagemans}]{chamberlain2018putting}
 Chamberlain, R., Mullin, C., Scheerlinck, B., \& Wagemans, J. (2018).
 \newblock Putting the art in artificial: Aesthetic responses to computer-generated art.
@@ -38,6 +43,11 @@ Chamberlain, R., Mullin, C., Scheerlinck, B., \& Wagemans, J. (2018).
 Crompton, C.~J., \& MacPherson, S.~E. (2019).
 \newblock Human agency beliefs affect older adults' interaction behaviours and task performance when learning with computerised partners.
 \newblock {\em Computers in Human Behavior\/}, {\em 101\/}, 60--67.
+
+\bibitem[{Dahlstedt(2021)}]{dahlstedt2021musicking}
+Dahlstedt, P. (2021).
+\newblock Musicking with algorithms: {Thoughts} on artificial intelligence, creativity, and agency.
+\newblock {\em Handbook of Artificial Intelligence for Music: Foundations, Advanced Approaches, and Developments for Creativity\/}, (pp. 873--914).
 
 \bibitem[{Dennett(1989)}]{dennett1989intentional}
 Dennett, D.~C. (1989).
@@ -133,6 +143,11 @@ Margulis, E.~H., Wong, P.~C., Simchy-Gross, R., \& McAuley, J.~D. (2019).
 Margulis, E.~H., Wong, P.~C., Turnbull, C., Kubit, B.~M., \& McAuley, J.~D. (2022{\natexlab{b}}).
 \newblock Narratives imagined in response to instrumental music reveal culture-bounded intersubjectivity.
 \newblock {\em Proceedings of the National Academy of Sciences\/}, {\em 119\/}(4), e2110406119.
+
+\bibitem[{Messingschlager \& Appel(2022)}]{messingschlager2022creative}
+Messingschlager, T.~V., \& Appel, M. (2022).
+\newblock Creative artificial intelligence and narrative transportation.
+\newblock {\em Psychology of Aesthetics, Creativity, and the Arts\/}.
 
 \bibitem[{Mikolov et~al.(2013)Mikolov, Chen, Corrado, \& Dean}]{mikolov2013efficient}
 Mikolov, T., Chen, K., Corrado, G., \& Dean, J. (2013).

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.2)  17 APR 2023 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.2)  19 APR 2023 10:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -635,16 +635,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [29]
-<intention_SRQ_by_piece.png, id=175, 903.375pt x 698.61pt>
-File: intention_SRQ_by_piece.png Graphic file (type png)
-<use intention_SRQ_by_piece.png>
-Package pdftex.def Info: intention_SRQ_by_piece.png  used on input line 423.
-(pdftex.def)             Requested size: 451.6864pt x 349.30414pt.
-
-Overfull \hbox (18.0664pt too wide) in paragraph at lines 423--424
- [][] 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -653,9 +643,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
-Overfull \hbox (8.3005pt too wide) in paragraph at lines 429--430
+<intention_SRQ_by_piece.png, id=179, 903.375pt x 698.61pt>
+File: intention_SRQ_by_piece.png Graphic file (type png)
+<use intention_SRQ_by_piece.png>
+Package pdftex.def Info: intention_SRQ_by_piece.png  used on input line 425.
+(pdftex.def)             Requested size: 451.6864pt x 349.30414pt.
+
+Overfull \hbox (18.0664pt too wide) in paragraph at lines 425--426
+ [][] 
+ []
+
+
+Overfull \hbox (8.3005pt too wide) in paragraph at lines 431--432
 \OT1/cmr/m/n/12 To ex-plore the con-tent of par-tic-i-pants' imag-ined nar-ra-tives, I as-sessed whether word2vec
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -672,11 +677,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[32] [33
+[32]
 
-] [34
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-] (./thesis.bbl [35
+[33] [34
+
+] [35] [36
+
+] (./thesis.bbl [37
 
 ]
 
@@ -686,7 +699,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[36]
+[38]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -694,7 +707,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[37]
+[39]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -702,7 +715,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[38])
+[40])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -710,20 +723,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[39] (./thesis.aux) ) 
+[41] (./thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 3984 strings out of 476025
- 61353 string characters out of 5790018
+ 3993 strings out of 476025
+ 61617 string characters out of 5790018
  1858388 words of memory out of 5000000
- 24364 multiletter control sequences out of 15000+600000
+ 24373 multiletter control sequences out of 15000+600000
  522579 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,12n,69p,1529b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on thesis.pdf (59 pages, 3793190 bytes).
+Output written on thesis.pdf (61 pages, 3795160 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
+ 262 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
