@@ -77,31 +77,31 @@
 % Acknowledgements (Acceptable American spelling) are optional
 % So are Acknowledgments (proper English spelling)
     \chapter*{Acknowledgements}
-	I want to thank a few people.
+	
 
 % The preface is optional
 % To remove it, comment it out or delete it.
-    \chapter*{Preface}
-	This is an example of a thesis setup to use the reed thesis document class.
+    % \chapter*{Preface}
+	% This is an example of a thesis setup to use the reed thesis document class.
 	
 	
 
-    \chapter*{List of Abbreviations}
-		You can always change the way your abbreviations are formatted. Play around with it yourself, use tables, or come to CUS if you'd like to change the way it looks. You can also completely remove this chapter if you have no need for a list of abbreviations. Here is an example of what this could look like:
+    % \chapter*{List of Abbreviations}
+	% 	You can always change the way your abbreviations are formatted. Play around with it yourself, use tables, or come to CUS if you'd like to change the way it looks. You can also completely remove this chapter if you have no need for a list of abbreviations. Here is an example of what this could look like:
 
-	\begin{table}[h]
-	\centering % You could remove this to move table to the left
-	\begin{tabular}{ll}
-		\textbf{ABC}  	&  American Broadcasting Company \\
-		\textbf{CBS}  	&  Columbia Broadcasting System\\
-		\textbf{CDC}  	&  Center for Disease Control \\
-		\textbf{CIA}  	&  Central Intelligence Agency\\
-		\textbf{CLBR} 	&  Center for Life Beyond Reed\\
-		\textbf{CUS}  	&  Computer User Services\\
-		\textbf{FBI}  	&  Federal Bureau of Investigation\\
-		\textbf{NBC}  	&  National Broadcasting Corporation\\
-	\end{tabular}
-	\end{table}
+	% \begin{table}[h]
+	% \centering % You could remove this to move table to the left
+	% \begin{tabular}{ll}
+	% 	\textbf{ABC}  	&  American Broadcasting Company \\
+	% 	\textbf{CBS}  	&  Columbia Broadcasting System\\
+	% 	\textbf{CDC}  	&  Center for Disease Control \\
+	% 	\textbf{CIA}  	&  Central Intelligence Agency\\
+	% 	\textbf{CLBR} 	&  Center for Life Beyond Reed\\
+	% 	\textbf{CUS}  	&  Computer User Services\\
+	% 	\textbf{FBI}  	&  Federal Bureau of Investigation\\
+	% 	\textbf{NBC}  	&  National Broadcasting Corporation\\
+	% \end{tabular}
+	% \end{table}
 	
 
     \tableofcontents
@@ -113,10 +113,10 @@
 % The abstract is not required if you're writing a creative thesis (but aren't they all?)
 % If your abstract is longer than a page, there may be a formatting issue.
     \chapter*{Abstract}
-	The preface pretty much says it all.
 	
-	\chapter*{Dedication}
-	You can have a dedication here if you wish.
+	
+	% \chapter*{Dedication}
+	% You can have a dedication here if you wish.
 
   \mainmatter % here the regular arabic numbering starts
   \pagestyle{fancyplain} % turns page numbering back on
@@ -230,6 +230,7 @@ In Study 2, participants were led to believe that each music clip from Study 1 w
 \markboth{Study 1}{Study 1}
 
 \section*{Method}
+\addcontentsline{toc}{section}{Method}
 I pre-registered my methods and analysis plan on AsPredicted.org (\url{https://aspredicted.org/XX3_DX2}).
 \subsection*{Participants}
 One hundred U.S. participants were recruited from Amazon Mechanical Turk (MTurk) via the CloudResearch participant-sourcing platform. All participants had a strong performance record on MTurk ($\ge95\%$ approval on $\ge100$ prior studies). Based on an attention check at the start of the study, one participant was excluded from participating. The final sample ranged in age from 20 to 70 years old (\emph{M} = 40.7, \emph{SD} = 11.6), with 59\% identifying as male and 41\% as female. Participants reported the following racial/ethnic identities: 64\% White, 15\% African American/Black, 8\% Asian/Asian American/Indian, 4\% Hispanic/Latinx, 4\% multiracial, and 5\% other identities. Across the sample, participants had 0-15 years of experience playing an instrument (\emph{M} = 1.42, \emph{SD} = 2.35) and little experience with music theory (\emph{M} = 0.72 years, \emph{SD} = 1.51). Participants were compensated \$2 for their time. 
@@ -282,7 +283,7 @@ Next, participants provided intentionality judgments by responding to the adapte
 The same series of questions was repeated for the remaining five clips. Clips were presented in a randomized order. After listening and responding to all six clips, participants answered basic demographic questions. The study took approximately 25 minutes to complete. 
 
 \section*{Results}
-
+\addcontentsline{toc}{section}{Results}
 I conducted pre-registered and exploratory analyses to investigate the relationships between composer identity beliefs and narrative listening responses. As an initial step, I computed weighted composer identity scores by multiplying participants’ forced-choice responses (-1 = Computer and 1 = Human) by their confidence ratings (0-100). Thus, the weighted scores ranged from -100 (i.e., indicating 100\% confidence that a piece was composed by a computer) to 100 (i.e., indicating 100\% confidence that a piece was composed by a human). For each aspect of narrative listening, I used these weighted composer identity scores to conduct by-participant and by-item analyses. 
 
 \subsection*{Narrativity}
@@ -364,7 +365,8 @@ The observed relationship in the word2vec analysis might have been a byproduct o
 	\label{fig-bimodal-dist}
 \end{figure}
 
-\subsection*{Discussion}
+\section*{Discussion}
+\addcontentsline{toc}{section}{Discussion}
 
 Study 1 established a correlation between composer identity judgments and numerical narrative listening responses. As the perceived humanness of a composer increased, participants were more likely to imagine a story when listening to music and they reported imagining more vivid narratives. These results are consistent with the possibility that intuitions about composer identity shape the experience of narrative listening.
 
@@ -380,6 +382,7 @@ Across participants, each piece of music was presented with a cover story indica
 \markboth{Study 2}{Study 2}
 
 \section*{Method}
+\addcontentsline{toc}{section}{Method}
 I pre-registered my methods and analysis plan on AsPredicted.org (\url{https://aspredicted.org/CK1_1TX})
 \subsection*{Participants}
 
@@ -398,6 +401,7 @@ For each of the six music clips from Study 1, participants read a cover story an
 As a manipulation check, after answering the narrative listening questions for each piece participants were presented with a forced-choice question asking them to recall the identity of the composer in their assigned cover story (“This is a question to make sure you were paying attention. In the description that preceded this piece of music, it was mentioned that the composer was…”). At the end of the survey, participants were asked to report the extent to which they believed the information about the composers. All other aspects of the procedure were identical to Study 1.
 
 \section*{Results}
+\addcontentsline{toc}{section}{Results}
 \subsection*{Narrativity}
 \subsubsection*{Pre-registered By-Participant Analysis}
 For each participant, I computed mean SRQ scores for the pieces they read as being human-composed and AI-composed. Narrativity was numerically greater when participants read that a piece was composed by a human (\emph{M} = 0.56, \emph{SD} = 0.35) than when they read that it was composed by an AI system (\emph{M} = 0.51, \emph{SD} = 0.35), but this difference did not reach significance, \emph{t}(96) = 1.85, \emph{p} = .07, \emph{d} = 0.19.
@@ -431,12 +435,16 @@ In the by-participant main analyses, SRQ and NE differed across conditions, but 
 To explore the content of participants’ imagined narratives, I assessed whether word2vec cosine similarity scores differed between composer identity conditions. For each participant, I obtained word2vec cosine similarity scores for each pair of text responses. Comparisons were categorized as “Same-Composer” if both responses were from the Human condition or the AI condition; comparisons were categorized as “Different-Composer” if one response was from the Human condition and one was from the AI condition. Across participants, I computed mean cosine similarity scores for Same-Composer comparisons (\emph{M} = 0.67, \emph{SD} = 0.12) and Different-Composer comparisons (\emph{M} = 0.68, \emph{SD} = 0.11). There was no difference in cosine similarity scores between comparison types, \emph{t}(39) = -0.49, \emph{p} = .62. As in the Study 1 analysis, I also examined the correlation between intentionality difference scores and cosine similarity scores. The two were not correlated, \emph{r}(56) = 0.03, \emph{p} = 0.80.
 
 \section*{Discussion}
+\addcontentsline{toc}{section}{Discussion}
 
 Although composer identity beliefs predicted narrativity and narrative engagement in Study 1, the experimental manipulation of beliefs in Study 2 did not yield differences on these measures. When participants were told that a given piece of music was composed by a human, they were no more likely to report imagining stories and their imagined stories were no more vivid than when they were told that a piece was composed by an AI system. Furthermore, in the word2vec analysis, participants’ text descriptions of their imagined stories were no more semantically similar to each other for pieces that were framed as having been composed by the same entity (both humans or both AI systems) than for pieces that were framed as having been composed by different entities. 
 
 In the main analysis, however, the Human condition yielded numerically greater narrativity and narrative engagement than the AI condition. This finding is suggestive of the predicted influence of composer identity beliefs. If borne out by future research addressing limitations of the present study (see General Discussion), such an influence would be striking considering that stimulus features of the music were held constant across conditions. Furthermore, as in Study 1, perceived intentionality predicted unique variance in SRQ and NE scores, over and above the manipulation of composer identity beliefs. This finding underscores the power of intentionality beliefs for downstream effects on narrative listening. 
 
 \chapter*{General Discussion}
+\addcontentsline{toc}{chapter}{General Discussion}
+\chaptermark{General Discussion}
+\markboth{General Discussion}{General Discussion}
 
 
 

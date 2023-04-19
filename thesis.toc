@@ -1,4 +1,11 @@
 \contentsline {chapter}{Introduction}{1}{}%
 \contentsline {chapter}{Study 1}{15}{}%
+\contentsline {section}{Method}{15}{}%
+\contentsline {section}{Results}{18}{}%
+\contentsline {section}{Discussion}{24}{}%
 \contentsline {chapter}{Study 2}{27}{}%
+\contentsline {section}{Method}{27}{}%
+\contentsline {section}{Results}{29}{}%
+\contentsline {section}{Discussion}{32}{}%
+\contentsline {chapter}{General Discussion}{35}{}%
 \contentsline {chapter}{References}{37}{}%
