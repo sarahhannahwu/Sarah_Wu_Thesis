@@ -8,4 +8,5 @@
 \contentsline {section}{Results}{29}{}%
 \contentsline {section}{Discussion}{32}{}%
 \contentsline {chapter}{General Discussion}{35}{}%
-\contentsline {chapter}{References}{37}{}%
+\contentsline {section}{Implications}{36}{}%
+\contentsline {chapter}{References}{39}{}%
