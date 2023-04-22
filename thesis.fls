@@ -426,11 +426,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT ./intention_SRQ_by_piece.png
-INPUT ./intention_SRQ_by_piece.png
-INPUT intention_SRQ_by_piece.png
-INPUT ./intention_SRQ_by_piece.png
-INPUT ./intention_SRQ_by_piece.png
 INPUT ./thesis.bbl
 INPUT thesis.bbl
 INPUT ./thesis.bbl

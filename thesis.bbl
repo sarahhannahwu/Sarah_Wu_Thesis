@@ -1,4 +1,4 @@
-\begin{thebibliography}{45}
+\begin{thebibliography}{46}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -63,6 +63,11 @@ Dennett, D.~C. (1989).
 Dhariwal, P., Jun, H., Payne, C., Kim, J.~W., Radford, A., \& Sutskever, I. (2020).
 \newblock Jukebox: A generative model for music.
 \newblock {\em arXiv preprint arXiv:2005.00341\/}.
+
+\bibitem[{Esling \& Devis(2020)}]{esling2020creativity}
+Esling, P., \& Devis, N. (2020).
+\newblock Creativity in the era of artificial intelligence.
+\newblock {\em arXiv preprint arXiv:2008.05959\/}.
 
 \bibitem[{Fischinger et~al.(2020)Fischinger, Kaufmann, \& Schlotz}]{fischinger2020if}
 Fischinger, T., Kaufmann, M., \& Schlotz, W. (2020).
