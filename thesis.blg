@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
 The style file: APA/apa-good.bst
 Database file #1: thesis.bib
-You've used 43 entries,
+You've used 45 entries,
             2804 wiz_defined-function locations,
-            849 strings with 12986 characters,
-and the built_in function-call counts, 26255 in all, are:
-= -- 2049
-> -- 1200
-< -- 22
-+ -- 461
-- -- 405
-* -- 2107
-:= -- 4107
-add.period$ -- 130
-call.type$ -- 43
-change.case$ -- 350
-chr.to.int$ -- 42
-cite$ -- 43
-duplicate$ -- 1910
-empty$ -- 1886
-format.name$ -- 538
-if$ -- 5027
+            858 strings with 13182 characters,
+and the built_in function-call counts, 27177 in all, are:
+= -- 2123
+> -- 1229
+< -- 24
++ -- 472
+- -- 414
+* -- 2167
+:= -- 4258
+add.period$ -- 136
+call.type$ -- 45
+change.case$ -- 363
+chr.to.int$ -- 44
+cite$ -- 45
+duplicate$ -- 1987
+empty$ -- 1959
+format.name$ -- 553
+if$ -- 5205
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 420
-newline$ -- 222
-num.names$ -- 172
-pop$ -- 769
+missing$ -- 435
+newline$ -- 232
+num.names$ -- 180
+pop$ -- 798
 preamble$ -- 1
-purify$ -- 307
+purify$ -- 318
 quote$ -- 0
-skip$ -- 651
+skip$ -- 681
 stack$ -- 0
-substring$ -- 1178
-swap$ -- 1086
+substring$ -- 1206
+swap$ -- 1123
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 381
+type$ -- 399
 warning$ -- 0
-while$ -- 185
+while$ -- 192
 width$ -- 0
-write$ -- 558
+write$ -- 583

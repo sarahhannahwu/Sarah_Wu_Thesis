@@ -1,4 +1,4 @@
-\begin{thebibliography}{43}
+\begin{thebibliography}{45}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -31,8 +31,13 @@ Boden, M.~A. (1998).
 
 \bibitem[{Boden(2010)}]{boden2010turing}
 Boden, M.~A. (2010).
-\newblock The turing test and artistic creativity.
+\newblock The {Turing} test and artistic creativity.
 \newblock {\em Kybernetes\/}, {\em 39\/}(3), 409--413.
+
+\bibitem[{Carter \& Nielsen(2017)}]{carter2017using}
+Carter, S., \& Nielsen, M. (2017).
+\newblock Using artificial intelligence to augment human intelligence.
+\newblock {\em Distill\/}, {\em 2\/}(12), e9.
 
 \bibitem[{Chamberlain et~al.(2018)Chamberlain, Mullin, Scheerlinck, \& Wagemans}]{chamberlain2018putting}
 Chamberlain, R., Mullin, C., Scheerlinck, B., \& Wagemans, J. (2018).
@@ -213,6 +218,11 @@ Steinbeis, N., \& Koelsch, S. (2009).
 Tan, S.-L., \& Kelly, M.~E. (2004).
 \newblock Graphic representations of short musical compositions.
 \newblock {\em Psychology of Music\/}, {\em 32\/}(2), 191--212.
+
+\bibitem[{Teicher(2016)}]{teicher2016photography}
+Teicher, J. (2016).
+\newblock When photography wasn't an art.
+\newblock {\em JSTOR Daily\/}.
 
 \bibitem[{Vuoskoski \& Eerola(2015)}]{vuoskoski2015extramusical}
 Vuoskoski, J.~K., \& Eerola, T. (2015).
