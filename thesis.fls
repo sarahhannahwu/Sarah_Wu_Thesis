@@ -426,6 +426,11 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT ./chatgpt.png
+INPUT ./chatgpt.png
+INPUT chatgpt.png
+INPUT ./chatgpt.png
+INPUT ./chatgpt.png
 INPUT ./thesis.bbl
 INPUT thesis.bbl
 INPUT ./thesis.bbl

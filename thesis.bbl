@@ -1,4 +1,4 @@
-\begin{thebibliography}{46}
+\begin{thebibliography}{47}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -123,6 +123,11 @@ Hong, J.-W., Fischer, K., Ha, Y., \& Zeng, Y. (2022).
 Jucker, J.-L., Barrett, J.~L., \& Wlodarski, R. (2014).
 \newblock “{I} just don't get it”: Perceived artists' intentions affect art evaluations.
 \newblock {\em Empirical Studies of the Arts\/}, {\em 32\/}(2), 149--182.
+
+\bibitem[{Kelly(2022)}]{kelly2022pointless}
+Kelly, K. (2022).
+\newblock Picture limitless creativity at your fingertips.
+\newblock WIRED.
 
 \bibitem[{Landauer \& Dumais(1997)}]{landauer1997solution}
 Landauer, T.~K., \& Dumais, S.~T. (1997).
