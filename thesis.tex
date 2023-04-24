@@ -291,7 +291,32 @@ I conducted pre-registered and exploratory analyses to investigate the relations
 
 \subsection{Narrativity}
 \subsubsection{Pre-registered By-Item Analysis}
-Following my pre-registered analysis plan, I conducted a logistic regression for each piece, predicting SRQ responses (“Yes” or “No”) from weighted composer identity scores. The results of the models are shown in Table 2. For four of the six pieces, imagining a story was reliably associated with greater confidence that the piece was composed by a human. For the other two pieces, the relationship was in the same direction but not significant.
+Following my pre-registered analysis plan, I conducted a logistic regression for each piece, predicting SRQ responses (“Yes” or “No”) from weighted composer identity scores. The results of the models are shown in Table~\ref*{table-CI-SRQ}. For four of the six pieces, imagining a story was reliably associated with greater confidence that the piece was composed by a human. For the other two pieces, the relationship was in the same direction but not significant.
+
+\begin{table}[h]
+	\centering
+	\caption {\emph{By-Item Logistic Regression Results in Study 1, Predicting SRQ from Weighted Composer Identity Scores}} \label{table-CI-SRQ}
+	\bigskip
+	\begin{tabular}{c c c c c}
+	\toprule
+	& Piece and Composer & \emph{b} & \emph{p} &\\
+	\hline
+	& \emph{Egmont Overture}, Beethoven & 0.001 & .78 &\\
+	\hline
+	& \emph{In the Mystic Land of Egypt}, Ketélbey & 0.009 & .01* &\\
+	\hline
+	& \emph{Piano Sonata No. 7}, Mozart & 0.01 & .002** &\\ 
+	\hline
+	& \emph{En Blanc et Noir}, Debussy & 0.01 & .002** &\\
+	\hline
+	& \emph{Gaspard de la Nuit}, Ravel & 0.005 & .10 &\\
+	\hline
+	& \emph{Suite, Op. 29}, Schoenberg & 0.01 & .002** &\\
+	\bottomrule
+	\end{tabular}\par
+	\bigskip
+	\small\textit{}$*p < .05,  \:*\!*p < .01$
+	\end{table}
 
 \subsubsection{Exploratory Analyses}
 
@@ -301,40 +326,12 @@ Similarly, for each piece, I computed mean weighted composer identity scores sep
 
 \begin{figure}[h!tbp]
 	\centering
-	\includegraphics[scale=0.5]{CI_differences.png}
+	\includegraphics[scale=0.6]{CI_SRQ.png}
 	\caption{Mean weighted composer identity scores for each piece, separately for participants who did and did not imagine a story. From top to bottom, pieces are listed in descending order by mean narrativity.}
 	\label{fig-ci-differences}
 \end{figure}
 
-I also conducted an additional exploratory analysis to examine whether perceived intentionality mediated the relationship between composer identity beliefs and narrativity. In separate regression models across pieces, weighted composer identity scores predicted both SRQ scores ($\beta$ = 0.65, \emph{p} = .003) and intentionality ratings ($\beta$ = 0.52, \emph{p}  \textless .001), and intentionality ratings predicted SRQ scores ($\beta$ = 1.79, \emph{p} \textless .001). These analyses show that perceived intentionality was related to both composer identity judgments and narrativity. When weighted composer identity scores and intentionality were both entered as predictors of SRQ scores (while also controlling for background characteristics and familiarity with the pieces), intentionality was the only significant predictor, ($\beta$ = 1.92, \emph{p} \textless .001); weighted composer identity scores no longer accounted for significant variance in SRQ scores, ($\beta$ = -0.13, \emph{p} = .68). Taken together, these exploratory analyses provide initial evidence that perceived intentionality mediates the relationship between composer identity judgments and narrativity. Table~\ref*{table-CI-SRQ} shows the standardized regression coefficients for the pairwise relationships between weighted composer identity scores, perceived intentionality, and SRQ ratings.
-
-
-\begin{table}[h]
-\centering
-\caption {\emph{By-Item Logistic Regression Results in Study 1, Predicting SRQ from Weighted Composer Identity Scores}} \label{table-CI-SRQ}
-\bigskip
-\begin{tabular}{c c c c c}
-\toprule
-& Piece and Composer & \emph{b} & \emph{p} &\\
-\hline
-& \emph{Egmont Overture}, Beethoven & 0.001 & .78 &\\
-\hline
-& \emph{In the Mystic Land of Egypt}, Ketélbey & 0.009 & .01* &\\
-\hline
-& \emph{Piano Sonata No. 7}, Mozart & 0.01 & .002** &\\ 
-\hline
-& \emph{En Blanc et Noir}, Debussy & 0.01 & .002** &\\
-\hline
-& \emph{Gaspard de la Nuit}, Ravel & 0.005 & .10 &\\
-\hline
-& \emph{Suite, Op. 29}, Schoenberg & 0.01 & .002** &\\
-\bottomrule
-\end{tabular}\par
-\bigskip
-\small\textit{}$*p < .05,  \:*\!*p < .01$
-\end{table}
-
-
+I also conducted an additional exploratory analysis to examine whether perceived intentionality mediated the relationship between composer identity beliefs and narrativity. In separate regression models across pieces, weighted composer identity scores predicted both SRQ scores ($\beta$ = 0.65, \emph{p} = .003) and intentionality ratings ($\beta$ = 0.52, \emph{p}  \textless .001), and intentionality ratings predicted SRQ scores ($\beta$ = 1.79, \emph{p} \textless .001). These analyses show that perceived intentionality was related to both composer identity judgments and narrativity. When weighted composer identity scores and intentionality were both entered as predictors of SRQ scores (while also controlling for background characteristics and familiarity with the pieces), intentionality was the only significant predictor, ($\beta$ = 1.92, \emph{p} \textless .001); weighted composer identity scores no longer accounted for significant variance in SRQ scores, ($\beta$ = -0.13, \emph{p} = .68). Taken together, these exploratory analyses provide initial evidence that perceived intentionality mediates the relationship between composer identity judgments and narrativity. Figure~\ref*{} shows the standardized regression coefficients for the pairwise relationships between weighted composer identity scores, perceived intentionality, and SRQ ratings.
 
 
 \subsection{Narrative Engagement}
@@ -378,7 +375,7 @@ In line with the narrativity analysis, I conducted additional exploratory analys
 
 Following my pre-registered analysis plan, I entered participants’ text responses into a plagiarism checker and excluded participants who plagiarized at least one response. While reading through the remaining text responses, I noted responses that were too short or irrelevant to the question (e.g., “I enjoyed the music”) and excluded those as well.
 
-To explore the content of participants’ imagined narratives, I entered each participant’s descriptions of their imagined narratives into the matrix comparison interface of the University of Colorado’s word embedding website (\url{http://wordvec.colorado.edu/matrix_comparison.html}). I selected the word2vec embedding method, which is trained on a large corpus of text from the Google News dataset (~100 billion words; \url{https://code.google.com/archive/p/word2vec/}). From the site, I obtained cosine similarity scores quantifying the semantic similarity of each pair of stories provided by a given participant. Because the number of imagined stories varied across participants, the number of pairwise comparisons per participant ranged from 1 (for participants who imagined stories for exactly two pieces) to 15 (for participants who imagined stories for all six pieces).
+To explore the content of participants’ imagined narratives, I entered each participant’s descriptions of their imagined narratives into the matrix comparison interface of the University of Colorado’s word embedding website (\url{http://wordvec.colorado.edu/matrix_comparison.html}). I selected the word2vec embedding method, which is trained on a large corpus of text from the Google News dataset ($\sim$100 billion words; \url{https://code.google.com/archive/p/word2vec/}). From the site, I obtained cosine similarity scores quantifying the semantic similarity of each pair of stories provided by a given participant. Because the number of imagined stories varied across participants, the number of pairwise comparisons per participant ranged from 1 (for participants who imagined stories for exactly two pieces) to 15 (for participants who imagined stories for all six pieces).
 
 As with the previous aspects of narrative listening, I conducted by-item and by-participant analyses of the narrative content. Because each cosine similarity score from word2vec reflects a pairwise comparison, I analyzed the relationship between these scores and pairwise comparisons of composer identity judgments. To do so, for each of the 15 pairs of pieces in the by-item analysis, I computed the difference between the two pieces in their mean weighted composer identity scores and then assessed the correlation between these difference scores and cosine similarity scores from word2vec. In the by-participant analysis, I computed analogous composer identity difference scores for each participant, separately for each pair of pieces for which they reported imagining a story. As in the by-item analysis, I then assessed the correlation between these difference scores and cosine similarity scores from word2vec. This correlation was positive in the by-item analysis, \emph{r}(13) = .68, \emph{p} = .006, and was also positive (though not significant) in the by-participant analysis, \emph{r}(54) = .13, \emph{p} = .08. Surprisingly, these results indicate that pieces believed to have been composed differently (i.e., by human vs. by computer) seemed to elicit narratives with more similar content. 
 
@@ -387,7 +384,7 @@ The observed relationship in the word2vec analysis may have been a byproduct of 
 \begin{figure}[h!tbp]
 	\centering
 	\includegraphics[scale=0.5]{weighted_dist.png}
-	\caption{Bimodal distribution of weighted composer identity scores in Study 1}
+	\caption{Bimodal distribution of weighted composer identity scores in Study 1.}
 	\label{fig-bimodal-dist}
 \end{figure}
 
@@ -412,6 +409,7 @@ Across participants, each piece of music was presented with a cover story indica
 \section{Method}
 
 I pre-registered my methods and analysis plan on AsPredicted.org (\url{https://aspredicted.org/CK1_1TX})
+
 \subsection*{Participants}
 
 One hundred U.S. participants were recruited from Amazon MTurk via the CloudResearch participant-sourcing platform. All participants had a strong performance record on MTurk ($\ge95\%$ approval on $\ge100$ prior studies). Based on an attention check at the start of the study, three participants were excluded from participating. The mean age of the sample was 41.4 (\emph{SD} = 13.1), with 52\% identifying as male and 47\% as female. Participants reported the following racial/ethnic identities: 81\% White, 10\% African American/Black, 3\% Asian/Asian American/Indian, and 6\% other identities. Across the sample, participants had 0-25 years of experience playing an instrument (\emph{M} = 3.28, \emph{SD} = 5.03) and little experience with music theory (\emph{M} = 1.39 years, \emph{SD} = 2.06). Participants were compensated \$2 for their time. 

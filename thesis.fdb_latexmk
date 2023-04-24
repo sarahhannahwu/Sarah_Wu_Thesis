@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex thesis"] 1682294326 "thesis.aux" "thesis.bbl" "thesis" 1682359308 0
+["bibtex thesis"] 1682373208 "thesis.aux" "thesis.bbl" "thesis" 1682373299 0
   "./APA/apa-good.bst" 1587750047 29521 681759d6fea01a76087da65eae747ed5 ""
   "./thesis.bib" 1682229859 14530 9f453c8767617e82fd65832d1c1d6a75 ""
-  "thesis.aux" 1682359307 8945 f32cdfb3d3a24d50c44b5205c58e38d3 "pdflatex"
+  "thesis.aux" 1682373299 8946 0fca223c0c5db4bf15e7eb45746a7448 "pdflatex"
   (generated)
   "thesis.bbl"
   "thesis.blg"
   (rewritten before read)
-["pdflatex"] 1682359307 "/Users/sarahwu/Desktop/Thesis Github/thesis.tex" "thesis.pdf" "thesis" 1682359308 0
-  "/Users/sarahwu/Desktop/Thesis Github/thesis.tex" 1682359306 85796 ba73d006f06e996104343a360b37fe34 ""
+["pdflatex"] 1682373298 "/Users/sarahwu/Desktop/Thesis Github/thesis.tex" "thesis.pdf" "thesis" 1682373299 0
+  "/Users/sarahwu/Desktop/Thesis Github/thesis.tex" 1682373298 85822 4f0b939ed18e2a9e25b3c33f92a9cbca ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -92,19 +92,19 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1680498832 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1680498768 7883467 3b06fc82856ab2b07ded6e1305f71102 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "CI_differences.png" 1681762455 32003 9a8d8eff7253ced8b917549b6298a3b5 ""
+  "CI_SRQ.png" 1682371563 183462 8c291d300c91eaaba39961efba3a8798 ""
   "DALLE_tired_student.png" 1668464464 1657163 b75aa27b2bc8568444ff786ead8bead8 ""
   "DALLE_tired_student1.png" 1668464520 1860530 d72e63c18f5c2ff6559ac138f940197d ""
   "chatgpt.png" 1682290141 285324 be6f6e7bbfee3b67ec2557e46e58ec49 ""
   "chemarr.sty" 1383591362 2427 429918874401aa8c2f0b441e3fc621f5 ""
   "reedthesis.cls" 1383591362 8293 480a01b2533a1585368760477c470aa0 ""
-  "thesis.aux" 1682359307 8945 f32cdfb3d3a24d50c44b5205c58e38d3 "pdflatex"
-  "thesis.bbl" 1682294326 13231 bf65108cdd9e04e3bb6324582b428372 "bibtex thesis"
-  "thesis.lof" 1682359307 733 ffcf2c1f1405fe6f467e082ba5d87bb6 "pdflatex"
-  "thesis.lot" 1682359307 439 3874d68fe5a804dd7b013424d12114bf "pdflatex"
-  "thesis.tex" 1682359306 85796 ba73d006f06e996104343a360b37fe34 ""
-  "thesis.toc" 1682359307 1842 1cc43d478e406436384fd1e12bbb1e16 "pdflatex"
-  "weighted_dist.png" 1681675177 22490 53b9824c04ac67f7ec75bd8c37e5e5f6 ""
+  "thesis.aux" 1682373299 8946 0fca223c0c5db4bf15e7eb45746a7448 "pdflatex"
+  "thesis.bbl" 1682373208 13231 bf65108cdd9e04e3bb6324582b428372 "bibtex thesis"
+  "thesis.lof" 1682373299 734 197b50dd068b2fd20421f986b4b169c1 "pdflatex"
+  "thesis.lot" 1682373299 439 3db483cf181fa4f542583304f2abe97c "pdflatex"
+  "thesis.tex" 1682373298 85822 4f0b939ed18e2a9e25b3c33f92a9cbca ""
+  "thesis.toc" 1682373299 1842 1cc43d478e406436384fd1e12bbb1e16 "pdflatex"
+  "weighted_dist.png" 1682372066 140922 ccf7bc311944ccbcde53b58109e84c2d ""
   (generated)
   "thesis.aux"
   "thesis.lof"
