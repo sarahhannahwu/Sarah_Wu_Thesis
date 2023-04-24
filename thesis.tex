@@ -34,10 +34,13 @@
 \usepackage{graphicx,latexsym} 
 \usepackage{amssymb,amsthm,amsmath}
 \usepackage{longtable,booktabs,setspace} 
-\usepackage{chemarr} %% Useful for one reaction arrow, useless if you're not a chem major
 \usepackage[hyphens]{url}
 \usepackage{rotating}
 \usepackage{natbib}
+\usepackage{color}
+\usepackage{tikz}
+\usepackage{siunitx}
+
 % Comment out the natbib line above and uncomment the following two lines to use the new 
 % biblatex-chicago style, for Chicago A. Also make some changes at the end where the 
 % bibliography is included. 
@@ -331,7 +334,29 @@ Similarly, for each piece, I computed mean weighted composer identity scores sep
 	\label{fig-ci-differences}
 \end{figure}
 
-I also conducted an additional exploratory analysis to examine whether perceived intentionality mediated the relationship between composer identity beliefs and narrativity. In separate regression models across pieces, weighted composer identity scores predicted both SRQ scores ($\beta$ = 0.65, \emph{p} = .003) and intentionality ratings ($\beta$ = 0.52, \emph{p}  \textless .001), and intentionality ratings predicted SRQ scores ($\beta$ = 1.79, \emph{p} \textless .001). These analyses show that perceived intentionality was related to both composer identity judgments and narrativity. When weighted composer identity scores and intentionality were both entered as predictors of SRQ scores (while also controlling for background characteristics and familiarity with the pieces), intentionality was the only significant predictor, ($\beta$ = 1.92, \emph{p} \textless .001); weighted composer identity scores no longer accounted for significant variance in SRQ scores, ($\beta$ = -0.13, \emph{p} = .68). Taken together, these exploratory analyses provide initial evidence that perceived intentionality mediates the relationship between composer identity judgments and narrativity. Figure~\ref*{} shows the standardized regression coefficients for the pairwise relationships between weighted composer identity scores, perceived intentionality, and SRQ ratings.
+I also conducted an additional exploratory analysis to examine whether perceived intentionality mediated the relationship between composer identity beliefs and narrativity. In separate regression models across pieces, weighted composer identity scores predicted both SRQ scores ($\beta$ = 0.65, \emph{p} = .003) and intentionality ratings ($\beta$ = 0.52, \emph{p}  \textless .001), and intentionality ratings predicted SRQ scores ($\beta$ = 1.79, \emph{p} \textless .001). These analyses show that perceived intentionality was related to both composer identity judgments and narrativity. When weighted composer identity scores and intentionality were both entered as predictors of SRQ scores (while also controlling for background characteristics and familiarity with the pieces), intentionality was the only significant predictor, ($\beta$ = 1.92, \emph{p} \textless .001); weighted composer identity scores no longer accounted for significant variance in SRQ scores, ($\beta$ = -0.13, \emph{p} = .68). Taken together, these exploratory analyses provide initial evidence that perceived intentionality mediates the relationship between composer identity judgments and narrativity. Figure~\ref*{fig-intentionality-srq} shows the standardized regression coefficients for the pairwise relationships between weighted composer identity scores, perceived intentionality, and SRQ ratings.
+
+\usetikzlibrary{positioning}
+\tikzset{mynode/.style={draw,text width=1in,align=center}
+}
+
+% The graph
+\begin{figure}[h!tbp]
+	\centering
+\begin{tikzpicture}
+    \node[mynode] (m){Intentionality};
+    \node[mynode,below left=of m](a) {CI judgment};
+    \node[mynode,below right=of m](b) {SRQ};
+    \draw[-latex] (a.north) -- node[auto,font=\footnotesize] {0.52**} (m.west);
+    \draw[-latex] (m.east) -- node[auto,font=\footnotesize] {1.79**} (b.north);
+    \draw[-latex] (a.east) --
+            node[below=3mm,font=\footnotesize,align=center] {0.65** (-0.13)}
+                 (b.west);
+  \end{tikzpicture}
+  \caption{Perceived intentionality as a mediator of the relationship between composer identity judgments and narrativity (SRQ). Standardized coefficients are shown. Along the path from composer identity judgments to narrativity, the value in parentheses indicates the coefficient when perceived intentionality was entered into the model.
+  }
+  \label{fig-intentionality-srq}
+\end{figure}
 
 
 \subsection{Narrative Engagement}
@@ -370,6 +395,22 @@ For each piece, I regressed all participants’ NE ratings on their correspondin
 
 In line with the narrativity analysis, I conducted additional exploratory analyses to examine perceived intentionality as a potential mediator of the observed relationship between composer identity judgments and NE. In separate regression models across pieces, composer identity judgments positively predicted NE, $\beta$ = 0.43, \emph{p} \textless .001, and perceived intentionality, $\beta$ = 0.52, \emph{p} \textless .001, and perceived intentionality predicted NE, $\beta$ = 0.74, \emph{p} \textless .001. These analyses show that perceived intentionality was related to both composer identity judgments and NE. When weighted composer identity scores and intentionality were both entered as predictors of NE (while controlling for background characteristics and familiarity with the pieces), perceived intentionality was the only predictor of NE, $\beta$ = 0.71, \emph{p} \textless .001; composer identity judgments were no longer significant predictors of NE, $\beta$ = 0.03, \emph{p} = .77. As with the narrativity analysis, these exploratory NE analyses suggested that perceived intentionality mediated the relationship between composer identity beliefs and NE.
 
+\begin{figure}[h!tbp]
+	\centering
+\begin{tikzpicture}
+    \node[mynode] (m){Intentionality};
+    \node[mynode,below left=of m](a) {CI judgment};
+    \node[mynode,below right=of m](b) {NE};
+    \draw[-latex] (a.north) -- node[auto,font=\footnotesize] {0.52**} (m.west);
+    \draw[-latex] (m.east) -- node[auto,font=\footnotesize] {0.74**} (b.north);
+    \draw[-latex] (a.east) --
+            node[below=3mm,font=\footnotesize,align=center] {0.43** (0.06)}
+                 (b.west);
+  \end{tikzpicture}
+  \caption{Perceived intentionality as a mediator of the relationship between composer identity judgments and narrative engagement (NE). Standardized coefficients are shown. Along the path from composer identity judgments to narrative engagement, the value in parentheses indicates the coefficient when perceived intentionality was entered into the model.
+  }
+  \label{fig-intentionality-ne}
+\end{figure}
 
 \subsection{Content of Narratives}
 

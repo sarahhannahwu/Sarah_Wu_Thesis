@@ -17,19 +17,19 @@
 \contentsline {subsubsection}{Pre-registered By-Item Analysis}{19}{}%
 \contentsline {subsubsection}{Exploratory Analyses}{19}{}%
 \contentsline {subsection}{Narrative Engagement}{21}{}%
-\contentsline {subsection}{Content of Narratives}{22}{}%
-\contentsline {section}{Discussion}{25}{}%
-\contentsline {chapter}{Study 2}{27}{}%
-\contentsline {section}{Method}{27}{}%
-\contentsline {subsection}{Materials and Procedure}{27}{}%
-\contentsline {section}{Results}{29}{}%
-\contentsline {subsection}{Narrativity}{29}{}%
-\contentsline {subsection}{Narrative Engagement}{29}{}%
-\contentsline {subsection}{Perceived Intentionality}{30}{}%
-\contentsline {subsection}{Content of Narratives}{31}{}%
-\contentsline {section}{Discussion}{31}{}%
-\contentsline {chapter}{General Discussion}{33}{}%
-\contentsline {section}{Implications}{35}{}%
-\contentsline {section}{Limitations and Future Directions}{38}{}%
-\contentsline {section}{Conclusion}{42}{}%
-\contentsline {chapter}{References}{45}{}%
+\contentsline {subsection}{Content of Narratives}{23}{}%
+\contentsline {section}{Discussion}{26}{}%
+\contentsline {chapter}{Study 2}{29}{}%
+\contentsline {section}{Method}{29}{}%
+\contentsline {subsection}{Materials and Procedure}{29}{}%
+\contentsline {section}{Results}{31}{}%
+\contentsline {subsection}{Narrativity}{31}{}%
+\contentsline {subsection}{Narrative Engagement}{31}{}%
+\contentsline {subsection}{Perceived Intentionality}{32}{}%
+\contentsline {subsection}{Content of Narratives}{33}{}%
+\contentsline {section}{Discussion}{33}{}%
+\contentsline {chapter}{General Discussion}{35}{}%
+\contentsline {section}{Implications}{37}{}%
+\contentsline {section}{Limitations and Future Directions}{40}{}%
+\contentsline {section}{Conclusion}{44}{}%
+\contentsline {chapter}{References}{47}{}%
