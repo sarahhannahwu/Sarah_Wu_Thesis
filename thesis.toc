@@ -1,35 +1,35 @@
-\contentsline {chapter}{Introduction}{1}{}%
-\contentsline {section}{The Physical Stance}{2}{}%
-\contentsline {section}{The Intentional Stance}{3}{}%
-\contentsline {section}{The Role of Intention in Aesthetic Judgments }{5}{}%
-\contentsline {section}{Art Produced by Artificial Intelligence }{6}{}%
-\contentsline {section}{Reactions to Computer-Generated Art and Music }{8}{}%
-\contentsline {section}{The Role of Beliefs in Human-Computer Interaction }{10}{}%
-\contentsline {section}{Narrative Listening}{11}{}%
-\contentsline {section}{The Present Research}{13}{}%
-\contentsline {chapter}{Study 1}{15}{}%
-\contentsline {section}{Method}{15}{}%
-\contentsline {subsection}{Participants}{15}{}%
-\contentsline {subsection}{Materials}{16}{}%
-\contentsline {subsection}{Procedure}{16}{}%
-\contentsline {section}{Results}{18}{}%
-\contentsline {subsection}{Narrativity}{19}{}%
-\contentsline {subsubsection}{Pre-registered By-Item Analysis}{19}{}%
-\contentsline {subsubsection}{Exploratory Analyses}{19}{}%
-\contentsline {subsection}{Narrative Engagement}{21}{}%
-\contentsline {subsection}{Content of Narratives}{23}{}%
-\contentsline {section}{Discussion}{26}{}%
-\contentsline {chapter}{Study 2}{29}{}%
-\contentsline {section}{Method}{29}{}%
-\contentsline {subsection}{Materials and Procedure}{29}{}%
-\contentsline {section}{Results}{31}{}%
-\contentsline {subsection}{Narrativity}{31}{}%
-\contentsline {subsection}{Narrative Engagement}{32}{}%
-\contentsline {subsection}{Perceived Intentionality}{32}{}%
-\contentsline {subsection}{Content of Narratives}{33}{}%
-\contentsline {section}{Discussion}{34}{}%
-\contentsline {chapter}{General Discussion}{37}{}%
-\contentsline {section}{Implications}{39}{}%
-\contentsline {section}{Limitations and Future Directions}{42}{}%
-\contentsline {section}{Conclusion}{46}{}%
-\contentsline {chapter}{References}{49}{}%
+\contentsline {chapter}{Introduction}{1}{chapter*.6}%
+\contentsline {section}{The Physical Stance}{2}{section*.7}%
+\contentsline {section}{The Intentional Stance}{3}{section*.8}%
+\contentsline {section}{The Role of Intention in Aesthetic Judgments }{5}{section*.9}%
+\contentsline {section}{Art Produced by Artificial Intelligence }{6}{section*.10}%
+\contentsline {section}{Reactions to Computer-Generated Art and Music }{8}{section*.11}%
+\contentsline {section}{The Role of Beliefs in Human-Computer Interaction }{10}{section*.12}%
+\contentsline {section}{Narrative Listening}{11}{section*.13}%
+\contentsline {section}{The Present Research}{13}{section*.14}%
+\contentsline {chapter}{Study 1}{15}{chapter*.15}%
+\contentsline {section}{Method}{15}{section*.16}%
+\contentsline {subsection}{Participants}{15}{section*.17}%
+\contentsline {subsection}{Materials}{16}{section*.18}%
+\contentsline {subsection}{Procedure}{16}{section*.19}%
+\contentsline {section}{Results}{18}{section*.20}%
+\contentsline {subsection}{Narrativity}{19}{section*.21}%
+\contentsline {subsubsection}{Pre-registered By-Item Analysis}{19}{section*.22}%
+\contentsline {subsubsection}{Exploratory Analyses}{19}{section*.23}%
+\contentsline {subsection}{Narrative Engagement}{21}{section*.24}%
+\contentsline {subsection}{Content of Narratives}{23}{section*.27}%
+\contentsline {section}{Discussion}{26}{section*.28}%
+\contentsline {chapter}{Study 2}{29}{chapter*.29}%
+\contentsline {section}{Method}{29}{section*.30}%
+\contentsline {subsection}{Materials and Procedure}{29}{section*.32}%
+\contentsline {section}{Results}{31}{section*.33}%
+\contentsline {subsection}{Narrativity}{31}{section*.34}%
+\contentsline {subsection}{Narrative Engagement}{32}{section*.37}%
+\contentsline {subsection}{Perceived Intentionality}{32}{section*.40}%
+\contentsline {subsection}{Content of Narratives}{33}{section*.41}%
+\contentsline {section}{Discussion}{34}{section*.42}%
+\contentsline {chapter}{General Discussion}{37}{chapter*.43}%
+\contentsline {section}{Implications}{39}{section*.44}%
+\contentsline {section}{Limitations and Future Directions}{42}{section*.45}%
+\contentsline {section}{Conclusion}{46}{section*.46}%
+\contentsline {chapter}{References}{49}{chapter*.47}%
