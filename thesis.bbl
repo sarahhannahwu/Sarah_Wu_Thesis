@@ -1,4 +1,4 @@
-\begin{thebibliography}{49}
+\begin{thebibliography}{54}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -119,6 +119,11 @@ Hong, J.-W., Fischer, K., Ha, Y., \& Zeng, Y. (2022).
 \newblock Human, {I} wrote a song for you: {An} experiment testing the influence of machines’ attributes on the {AI}-composed music evaluation.
 \newblock {\em Computers in Human Behavior\/}, {\em 131\/}, 107239.
 
+\bibitem[{Hout et~al.(2013)Hout, Papesh, \& Goldinger}]{hout2013multidimensional}
+Hout, M.~C., Papesh, M.~H., \& Goldinger, S.~D. (2013).
+\newblock Multidimensional scaling.
+\newblock {\em Wiley Interdisciplinary Reviews: Cognitive Science\/}, {\em 4\/}(1), 93--103.
+
 \bibitem[{Jucker et~al.(2014)Jucker, Barrett, \& Wlodarski}]{jucker2014just}
 Jucker, J.-L., Barrett, J.~L., \& Wlodarski, R. (2014).
 \newblock “{I} just don't get it”: Perceived artists' intentions affect art evaluations.
@@ -133,6 +138,11 @@ Kelly, K. (2022).
 Landauer, T.~K., \& Dumais, S.~T. (1997).
 \newblock A solution to {Plato's} problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge.
 \newblock {\em Psychological Review\/}, {\em 104\/}(2), 211.
+
+\bibitem[{Loughlin et~al.(2015)Loughlin, Grossnickle, Dinsmore, \& Alexander}]{loughlin2015reading}
+Loughlin, S., Grossnickle, E., Dinsmore, D., \& Alexander, P. (2015).
+\newblock “{Reading}” paintings: Evidence for trans-symbolic and symbol-specific comprehension processes.
+\newblock {\em Cognition and Instruction\/}, {\em 33\/}(3), 257--293.
 
 \bibitem[{Lupyan et~al.(2020)Lupyan, Rahman, Boroditsky, \& Clark}]{lupyan2020effects}
 Lupyan, G., Rahman, R.~A., Boroditsky, L., \& Clark, A. (2020).
@@ -158,6 +168,11 @@ Margulis, E.~H., Wong, P.~C., Simchy-Gross, R., \& McAuley, J.~D. (2019).
 Margulis, E.~H., Wong, P.~C., Turnbull, C., Kubit, B.~M., \& McAuley, J.~D. (2022{\natexlab{b}}).
 \newblock Narratives imagined in response to instrumental music reveal culture-bounded intersubjectivity.
 \newblock {\em Proceedings of the National Academy of Sciences\/}, {\em 119\/}(4), e2110406119.
+
+\bibitem[{McAuley et~al.(2021)McAuley, Wong, Mamidipaka, Phillips, \& Margulis}]{mcauley2021you}
+McAuley, J.~D., Wong, P.~C., Mamidipaka, A., Phillips, N., \& Margulis, E.~H. (2021).
+\newblock Do you hear what {I} hear? {P}erceived narrative constitutes a semantic dimension for music.
+\newblock {\em Cognition\/}, {\em 212\/}, 104712.
 
 \bibitem[{Messingschlager \& Appel(2022)}]{messingschlager2022creative}
 Messingschlager, T.~V., \& Appel, M. (2022).
@@ -224,6 +239,11 @@ Stanley, J., Gowen, E., \& Miall, R.~C. (2007).
 \newblock Effects of agency on movement interference during observation of a moving dot stimulus.
 \newblock {\em Journal of Experimental Psychology: Human Perception and Performance\/}, {\em 33\/}(4), 915.
 
+\bibitem[{Steciuch et~al.(2023)Steciuch, Millis, \& Kopatich}]{steciuch2023viewing}
+Steciuch, C.~C., Millis, K., \& Kopatich, R.~D. (2023).
+\newblock Is viewing a painting like reading a story?: Trans-symbolic comprehension processes and aesthetic responses across two media.
+\newblock {\em Discourse Processes\/}, (pp. 1--22).
+
 \bibitem[{Steinbeis \& Koelsch(2009)}]{steinbeis2009understanding}
 Steinbeis, N., \& Koelsch, S. (2009).
 \newblock Understanding the intentions behind man-made products elicits neural activity in areas dedicated to mental state attribution.
@@ -243,6 +263,11 @@ Tausczik, Y.~R., \& Pennebaker, J.~W. (2010).
 Teicher, J. (2016).
 \newblock When photography wasn't an art.
 \newblock {\em JSTOR Daily\/}.
+
+\bibitem[{Trainor \& Trehub(1992)}]{trainor1992development}
+Trainor, L.~J., \& Trehub, S.~E. (1992).
+\newblock The development of referential meaning in music.
+\newblock {\em Music Perception\/}, {\em 9\/}(4), 455--470.
 
 \bibitem[{Vuoskoski \& Eerola(2015)}]{vuoskoski2015extramusical}
 Vuoskoski, J.~K., \& Eerola, T. (2015).

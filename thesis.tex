@@ -50,7 +50,7 @@
 
 % \usepackage{times} % other fonts are available like times, bookman, charter, palatino
 
-\title{The Mind Behind the Music: \\Investigating the Role of Perceived Intentionality in Narrative Listening}
+\title{The Mind Behind the Music: \\AI, Intentionality, and the Perception of Musical Narrative}
 \author{Sarah Wu}
 % The month and year that you submit your FINAL draft TO THE LIBRARY (May or December)
 \date{May 2023}
@@ -85,10 +85,10 @@
 	To my family, for their love, for supporting me throughout my education, and for fostering my curiosity. 
 	\\
 
-	\noindent To my thesis advisor Kevin Holmes—I'm grateful for your mentorship. Thank you for challenging me to think deeply about psychological concepts and the field as a whole. 
+	\noindent To my thesis advisor Kevin Holmes—I'm grateful for your mentorship. Thank you for inspiring me to think deeply about psychological concepts and the field as a whole. 
 	\\
 
-	\noindent To Harrison—we made it to another graduation together! Thank you for your sweet dedication to the Sarah Wu club and all that entails. 
+	\noindent To Harrison, for listening to many iterations of this project and asking challenging questions. Thank you for your sweet dedication to the Sarah Wu club and all that entails. 
 	\\
 
 	\noindent To the Thought Lab members, for your thoughtful (no pun intended) comments and questions. 
@@ -155,8 +155,8 @@
 % Double spacing: if you want to double space, or one and a half 
 % space, uncomment one of the following lines. You can go back to 
 % single spacing with the \singlespacing command.
-% \onehalfspacing
-\doublespacing
+\onehalfspacing
+% \doublespacing
 
 Listeners readily imagine stories when listening to music, even in the absence of lyrics. This propensity may be part of a broader human tendency to identify patterns or derive meaning from abstract stimuli. For example, classic studies have demonstrated that people perceive shapes moving in arbitrary patterns as agentic entities (Heider \& Simmel, 1944; Geraci \& Simion, 2021). When watching even brief animations of these shapes, people cannot help but view them as characters in a story, with motivations and emotions. In the case of music, listeners may consider salient features such as timbre and pitch to mentally construct a narrative. But the features of the music itself may not be the sole determinant of the listening experience. Aesthetic judgments of music are influenced by, among other factors, beliefs about the title of the piece (Anglada-Tort et al., 2019; Simonton, 1995), the prestige of the composer (Fischinger et al., 2018), and visual imagery that the piece evokes (Vuoskoski \& Eerola, 2015). 
 
@@ -202,7 +202,7 @@ These AI systems are not limited to generating depictions of the real world, but
 \label{fig-tired-student}
 \end{figure}
 
-These systems are not without controversy. Recently, digital artist James Allen faced backlash for using AI to win an art competition (Roose, 2022), sparking debate about the role of human creativity in art and the potential obsolescence of human artists. Art is one of many domains in which AI rivals or even outperforms human efforts. The impressive outputs of AI art generators have forced artists and the general public to consider what roles human and computer artists play in society. If each type of artist can produce art autonomously, and of similar quality, it would seem as though they should be able to fill the same role. However, the “autonomy” of an AI system is difficult to define because AI algorithms require at least some human involvement (Hong et al., 2020). For example, AI art generators are programmed by using human-created art as training data, which is why some critics rebuked Allen for “high-tech plagiarism” (Roose, 2022). At the same time, once an AI system has been trained on enough data, it can exhibit human-like “creativity,” generating innovative ideas that exceed its input (Boden, 1998). 
+These systems are not without controversy. Recently, digital artist James Allen faced backlash for using AI to win an art competition (Roose, 2022), sparking debate about the role of human creativity in art and the potential obsolescence of human artists. Art is one of many domains in which AI rivals or even outperforms human efforts. The impressive outputs of AI art generators have forced artists and the general public to consider what roles human and computer artists play in society. If each type of artist can produce art autonomously, and of similar quality, it would seem as though they should be able to fill the same role. However, the “autonomy” of an AI system is difficult to define because AI algorithms require at least some human involvement (Hong et al., 2022). For example, AI art generators are programmed by using human-created art as training data, which is why some critics rebuked Allen for “high-tech plagiarism” (Roose, 2022). At the same time, once an AI system has been trained on enough data, it can exhibit human-like “creativity,” generating innovative ideas that exceed its input (Boden, 1998). 
 
 \section{Reactions to Computer-Generated Art and Music
 }
@@ -362,7 +362,7 @@ I also conducted an additional exploratory analysis to examine whether perceived
 	\centering
 \begin{tikzpicture}
     \node[mynode] (m){Intentionality};
-    \node[mynode,below left=of m](a) {CI judgment};
+    \node[mynode,below left=of m](a) {CI judgments};
     \node[mynode,below right=of m](b) {SRQ};
     \draw[-latex] (a.north) -- node[auto,font=\footnotesize] {0.52**} (m.west);
     \draw[-latex] (m.east) -- node[auto,font=\footnotesize] {1.79**} (b.north);
@@ -370,7 +370,7 @@ I also conducted an additional exploratory analysis to examine whether perceived
             node[below=3mm,font=\footnotesize,align=center] {0.65** (-0.13)}
                  (b.west);
   \end{tikzpicture}
-  \caption{Perceived intentionality as a mediator of the relationship between composer identity judgments and narrativity (SRQ). Standardized coefficients are shown. Along the path from composer identity judgments to narrativity, the value in parentheses indicates the coefficient when perceived intentionality was entered into the model.
+  \caption{Perceived intentionality as a mediator of the relationship between composer identity (CI) judgments and narrativity (SRQ). Standardized coefficients are shown. Along the path from composer identity judgments to narrativity, the value in parentheses indicates the coefficient when perceived intentionality was entered into the model.
   }
   \label{fig-intentionality-srq}
 \end{figure}
@@ -416,7 +416,7 @@ In line with the narrativity analysis, I conducted additional exploratory analys
 	\centering
 \begin{tikzpicture}
     \node[mynode] (m){Intentionality};
-    \node[mynode,below left=of m](a) {CI judgment};
+    \node[mynode,below left=of m](a) {CI judgments};
     \node[mynode,below right=of m](b) {NE};
     \draw[-latex] (a.north) -- node[auto,font=\footnotesize] {0.52**} (m.west);
     \draw[-latex] (m.east) -- node[auto,font=\footnotesize] {0.74**} (b.north);
@@ -424,7 +424,7 @@ In line with the narrativity analysis, I conducted additional exploratory analys
             node[below=3mm,font=\footnotesize,align=center] {0.43** (0.06)}
                  (b.west);
   \end{tikzpicture}
-  \caption{Perceived intentionality as a mediator of the relationship between composer identity judgments and narrative engagement (NE). Standardized coefficients are shown. Along the path from composer identity judgments to narrative engagement, the value in parentheses indicates the coefficient when perceived intentionality was entered into the model.
+  \caption{Perceived intentionality as a mediator of the relationship between composer identity (CI) judgments and narrative engagement (NE). Standardized coefficients are shown. Along the path from composer identity judgments to narrative engagement, the value in parentheses indicates the coefficient when perceived intentionality was entered into the model.
   }
   \label{fig-intentionality-ne}
 \end{figure}
@@ -560,7 +560,18 @@ In line with previous research (e.g., Hong et al., 2022; Steinbeis \& Koelsch, 2
 \sectionmark{Limitations and Future Directions}
 \markboth{Limitations and Future Directions}{Limitations and Future Directions}
 
-The present thesis bridged research on empirical aesthetics, human-computer interaction, and music perception. Because of its novelty, it was difficult to anticipate the effectiveness of the cover stories across the music clips. Descriptive statistics from the item analysis suggest that the cover stories functioned differently across the six pieces. For example, in Study 2 narrativity was higher in the Human condition than the AI condition for the music by Mozart, Beethoven, and Ravel. In contrast, narrativity was almost the same across the two conditions for the piece by Schoenberg, and was slightly greater in the AI condition than the Human condition for the music by Ketélbey and Debussy. Margulis et al. (2019) consulted with music theorists to quantify the stimulus features of the music clips in their study, specifically in terms of contrast and topicality. Because I rendered their clips in a synthesized format, I could not use those metrics to explain why the cover stories yielded such varied judgments of composer identity and narrative listening responses across pieces. Aside from contrast and topicality, the pieces also vary on a set of more basic dimensions (e.g., tempo, harmonic progression, dynamic contrast). Without a model of these dimensions of the music, and how the pieces relate to each other along these dimensions, it is difficult to know what participants picked up on when they judged certain pieces of music as more human-sounding or more AI-sounding. Future research in this domain might collect information about the perceptual features of music to understand their contributions relative to those of higher-level factors like beliefs about composer identity. 
+The present thesis bridged research on empirical aesthetics, human-computer interaction, and music perception. Because of its novelty, it was difficult to anticipate the effectiveness of the cover stories across the music clips. Descriptive statistics from the item analysis suggest that the cover stories functioned differently across the six pieces. For example, in Study 2 narrativity was higher in the Human condition than the AI condition for the music by Mozart, Beethoven, and Ravel. In contrast, narrativity was almost the same across the two conditions for the piece by Schoenberg, and was slightly greater in the AI condition than the Human condition for the music by Ketélbey and Debussy. Figure~\ref*{fig-MDS} uses multidimensional scaling (MDS; Hout et al., 2013) to visualize the similarity between the pieces based on narrativity, narrative engagement, and intentionality ratings. This technique reduced the complexity of the dataset and allowed for visual interpretation of the relationships between pieces.  
+
+\begin{figure}[h!tbp]
+	\centering
+	\includegraphics[scale=0.6]{MDS.png}
+	\caption{Two-dimensional MDS plot of the six music clips. The closer any two pieces are on the plot, the more similar they are in terms of participants' SRQ, NE, and intentionality ratings.}
+	\label{fig-MDS}
+\end{figure}
+
+As with word2vec, MDS units in isolation are not informative; more important is the relative distance between each of the points on the plot, which captures similarity in participants' ratings. Interpretation of MDS dimensions is not straightforward, but through an examination of the plot and the ratings used to produce it, the analyst can infer what they may capture.  Based on my assessment of the data I inferred possible interpretations of Dimensions 1 and 2. Dimension 1 may reflect overall levels of perceived intentionality: When averaged across Human and AI conditions, the pieces by Beethoven, Ketélbey, and Debussy had relatively high intentionality, whereas the pieces by Mozart, Ravel, and Schoenberg had relatively low intentionality. Dimension 2 may capture the effectiveness of the Human cover story, where the piece by Mozart yielded greater SRQ, NE, and intentionality in the Human condition than the AI condition and the piece by Schoenberg yielded similar ratings regardless of condition. 
+
+Margulis et al. (2019) consulted with music theorists to quantify the stimulus features of the music clips in their study, specifically in terms of contrast and topicality. Because I rendered their clips in a synthesized format, I could not use those metrics to explain why the cover stories yielded such varied judgments of composer identity and narrative listening responses across pieces. Aside from contrast and topicality, the pieces also vary on a set of more basic dimensions (e.g., tempo, harmonic progression, dynamic contrast). Without a model of these dimensions of the music, and how the pieces relate to each other along these dimensions, it is difficult to know what participants picked up on when they judged certain pieces of music as more human-sounding or more AI-sounding. Future research in this domain might collect information about the perceptual features of music to understand their contributions relative to those of higher-level factors like beliefs about composer identity. 
 
 The present thesis was also limited in its text analysis. In line with previous work, (Margulis et al., 2022b), I prompted participants to describe their imagined narratives in as much detail as possible. However, because this was such an open-ended prompt, the text responses varied greatly in terms of length and syntax. The sheer number of unique words reported, in combination with the relatively small sample size imposed by restrictions of the word2vec analysis (e.g., only responses from participants who imagined at least two stories could be analyzed), made it difficult to discern clear patterns. While this open-ended question may have been effective for Margulis et al.’s (2022b) examination of broad, cultural differences in perceptions of musical narrative, it may be too general for the more subtle manipulation of composer identity beliefs. Moreover, word2vec may not be the best tool to analyze participants’ imagined stories. Although the model quantifies the similarity of texts relative to each other, its absolute cosine similarity scores are difficult to interpret and do not provide insight into the semantic content of the text. Studies that build upon this research using a similar word embedding model might include a more focused prompt to probe the content of narratives. Dictionary-based approaches, such as Linguistic Inquiry and Word Count (LIWC; Tausczik \& Pennebaker, 2010), may be a useful supplement for quantifying the prevalence of certain kinds of words for each imagined story.
 
@@ -572,8 +583,8 @@ In the same vein, future research should consider humans’ intuitions about wha
 
 \begin{figure}[h!tbp]
 	\centering
-	\includegraphics[scale=0.6]{chatgpt.png}
-	\caption{ChatGPT's recommendations for musical properties that would evoke images of someone being chased.}
+	\includegraphics[scale=0.5]{chatgpt.png}
+	\caption{ChatGPT's recommendations for musical properties that would suit the imagined story of a person being chased.}
 	\label{fig-chatgpt}
 \end{figure}
 
