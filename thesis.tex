@@ -81,7 +81,17 @@
 % Acknowledgements (Acceptable American spelling) are optional
 % So are Acknowledgments (proper English spelling)
     \chapter*{Acknowledgements}
-	To my parents—thank you for supporting me throughout my education and for fostering my curiosity. To my thesis advisor Kevin Holmes—I'm grateful for your mentorship. Thank you for all your engaging lectures and classroom discussions and opportunities to conduct psychological research. To Harrison—we made it to another graduation together! Thank you for your sweet dedication to the Sarah Wu club and all that entails. To all my music teachers—thank you for pushing me to search for the story in the music.
+	To my family—thank you for supporting me throughout my education and for fostering my curiosity. 
+	
+	To my thesis advisor Kevin Holmes—I'm grateful for your mentorship. Thank you for all your engaging lectures and classroom discussions and opportunities to conduct psychological research. 
+	
+	To Harrison—we made it to another graduation together! Thank you for your sweet dedication to the Sarah Wu club and all that entails. 
+
+	To the Thought Lab—thank you for your thoughtful (no pun intended) comments and questions. 
+
+	To my Reed friends—thank you for expanding my world and enriching my time in college. 
+	
+	To all my music teachers—thank you for pushing me to search for the story in the music.
 	
 
 % The preface is optional
@@ -180,8 +190,8 @@ These AI systems are not limited to generating depictions of the real world, but
 
 \begin{figure}
 \centering
-\includegraphics[scale=0.15]{DALLE_tired_student}
-\includegraphics[scale=0.15]{DALLE_tired_student1.png}
+\includegraphics[scale=0.2]{DALLE_tired_student}
+\includegraphics[scale=0.2]{DALLE_tired_student1.png}
 \caption{DALL-E 2 images generated from the text prompt “a tired student working on her undergraduate thesis, oil painting.”}
 \label{fig-tired-student}
 \end{figure}
@@ -210,9 +220,9 @@ Taken together, the research reviewed thus far suggests that both subjective jud
 
 Narrative structure seems like an intrinsic part of music. People cannot help but infer a narrative when listening to certain patterns of sound (Tan \& Kelly, 2004). A series of recent studies by Margulis et al. (2019, 2022a, 2022b) investigated the narrative processing of music in depth. Specifically, these studies examined listeners’ propensity to narrativize using three metrics: narrativity, narrative engagement, and the content of imagined narratives. 
 
-\emph{Narrativity} is the likelihood that a given piece of music will trigger an imagined story. To study this phenomenon, Margulis et al. (2019) presented U.S. and Chinese participants with Western and Chinese classical music and asked them to report whether they imagined a story while listening to each piece. If they did imagine a story, they were prompted to rate their \emph{narrative engagement}through four Likert-scale items assessing the vividness of their perceived narratives (e.g., “I imagined a story with a clear setting, characters, and events”). The results showed that U.S. participants were more likely to imagine a story when listening to Western classical music than Chinese classical music, while Chinese participants showed the opposite pattern. Moreover, when participants imagined a story, they reported higher narrative engagement for the music from their own culture. 
+\emph{Narrativity} is the likelihood that a given piece of music will trigger an imagined story. To study this phenomenon, Margulis et al. (2019) presented U.S. and Chinese participants with Western and Chinese classical music and asked them to report whether they imagined a story while listening to each piece. If they did imagine a story, they were prompted to rate their \emph{narrative engagement} through four Likert-scale items assessing the vividness of their perceived narratives (e.g., “I imagined a story with a clear setting, characters, and events”). The results showed that U.S. participants were more likely to imagine a story when listening to Western classical music than Chinese classical music, while Chinese participants showed the opposite pattern. Moreover, when participants imagined a story, they reported higher narrative engagement for the music from their own culture. 
 
-To probe the \emph{content} of participants’ imagined narratives, Margulis et al. (2022b) used the word embedding model word2vec. This model quantifies the semantic similarity of words by considering the context in which the words occur. Its underlying assumption is that words with similar meanings appear in similar contexts (Landauer \& Dumais, 1997; Mikolov et al., 2013). With a large enough corpus of text, word2vec can make highly accurate inferences about the meaning of individual words. For example, the model would infer that “dog” is more similar to “cat” than to “candy” because contexts containing “dog” are more similar to contexts containing “cat” than to contexts containing “candy.” Such inferences are derived by transforming each word into a numerical representation called a word embedding or word vector: a sequence of numbers that uniquely identifies the word based on its frequency and co-occurrences within a corpus. Word vectors are mapped onto a vector space, where words that are more semantically similar are positioned closer to each other. Within this geometric representation, a simple distance metric—cosine similarity—can be used to infer the similarity between any two words. 
+To probe the \emph{content} of participants’ imagined narratives, Margulis et al. (2022b) used the word embedding model word2vec. This model quantifies the semantic similarity of words by considering the context in which the words occur. Its underlying assumption is that words with similar meanings appear in similar contexts (Landauer \& Dumais, 1997; Mikolov et al., 2013). With a large enough corpus of text, word2vec can make highly accurate inferences about the meaning of individual words. For example, the model would infer that “clown” is more similar to “performer” than to “candy” because contexts containing “clown” are more similar to contexts containing “performer” than to contexts containing “candy.” Such inferences are derived by transforming each word into a numerical representation called a word embedding or word vector: a sequence of numbers that uniquely identifies the word based on its frequency and co-occurrences within a corpus. Word vectors are mapped onto a vector space, where words that are more semantically similar are positioned closer to each other. Within this geometric representation, a simple distance metric—cosine similarity—can be used to infer the similarity between any two words. 
 
 Margulis et al. (2022b) applied word2vec to stories imagined when listening to musical pieces. U.S. and Chinese participants (from Arkansas and Michigan, and Dimen, respectively) were asked to describe the stories they imagined when listening to Western and Chinese pieces, in as much detail as possible. If they did not imagine a story, they were prompted to speculate as to why they did not. Using word2vec, Margulis et al. showed that there were cross-cultural differences—but within-culture consensus—in the details of the narratives evoked by specific pieces. For example, for one atonal piece, Arkansas and Michigan listeners reported stories involving horror, murder, and paranoia. In contrast, for the same piece, Chinese listeners reported stories about cheerful moments with friends. These findings demonstrate that the way people narrativize music is driven not solely by stimulus features, but also by cultural associations with specific sound patterns. 
 
@@ -238,6 +248,7 @@ In Study 2, participants were led to believe that each music clip from Study 1 w
 \section{Method}
 
 I pre-registered my methods and analysis plan on AsPredicted.org (\url{https://aspredicted.org/XX3_DX2}).
+
 \subsection{Participants}
 One hundred U.S. participants were recruited from Amazon Mechanical Turk (MTurk) via the CloudResearch participant-sourcing platform. All participants had a strong performance record on MTurk ($\ge95\%$ approval on $\ge100$ prior studies). Based on an attention check at the start of the study, one participant was excluded from participating. The final sample ranged in age from 20 to 70 years old (\emph{M} = 40.7, \emph{SD} = 11.6), with 59\% identifying as male and 41\% as female. Participants reported the following racial/ethnic identities: 64\% White, 15\% African American/Black, 8\% Asian/Asian American/Indian, 4\% Hispanic/Latinx, 4\% multiracial, and 5\% other identities. Across the sample, participants had 0-15 years of experience playing an instrument (\emph{M} = 1.42, \emph{SD} = 2.35) and little experience with music theory (\emph{M} = 0.72 years, \emph{SD} = 1.51). Participants were compensated \$2 for their time. 
 
@@ -329,7 +340,7 @@ Similarly, for each piece, I computed mean weighted composer identity scores sep
 
 \begin{figure}[h!tbp]
 	\centering
-	\includegraphics[scale=0.6]{CI_SRQ.png}
+	\includegraphics[scale=0.5]{CI_SRQ.png}
 	\caption{Mean weighted composer identity scores for each piece, separately for participants who did and did not imagine a story. From top to bottom, pieces are listed in descending order by mean narrativity.}
 	\label{fig-ci-differences}
 \end{figure}
@@ -472,6 +483,13 @@ As a manipulation check, after answering the narrative listening questions for e
 \subsection{Narrativity}
 \subsubsection*{Pre-registered By-Participant Analysis}
 For each participant, I computed mean SRQ scores for the pieces they read as being human-composed and AI-composed. Narrativity was numerically greater when participants read that a piece was composed by a human (\emph{M} = 0.56, \emph{SD} = 0.35) than when they read that it was composed by an AI system (\emph{M} = 0.51, \emph{SD} = 0.35), but this difference did not reach significance, \emph{t}(96) = 1.85, \emph{p} = .07, \emph{d} = 0.19.
+
+\begin{figure}[h!tbp]
+	\centering
+	\includegraphics[scale=0.25]{SRQ_dist.png}
+	\caption{Distribution of the number of pieces for which participants imagined stories, separated by condition.}
+	\label{fig-SRQ-dist}
+\end{figure}
 
 \subsubsection*{Pre-registered By-Item Analysis}
 

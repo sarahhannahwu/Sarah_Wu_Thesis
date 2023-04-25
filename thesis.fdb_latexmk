@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex thesis"] 1682378942 "thesis.aux" "thesis.bbl" "thesis" 1682378943 0
+["bibtex thesis"] 1682381849 "thesis.aux" "thesis.bbl" "thesis" 1682382423 0
   "./APA/apa-good.bst" 1587750047 29521 681759d6fea01a76087da65eae747ed5 ""
   "./thesis.bib" 1682229859 14530 9f453c8767617e82fd65832d1c1d6a75 ""
-  "thesis.aux" 1682378943 9912 0fcc0d801ad69e44be261b4cdb815e22 "pdflatex"
+  "thesis.aux" 1682382423 10150 86c63c400d672168ac9620650eba08f3 "pdflatex"
   (generated)
   "thesis.bbl"
   "thesis.blg"
   (rewritten before read)
-["pdflatex"] 1682378942 "/Users/sarahwu/Desktop/Thesis Github/thesis.tex" "thesis.pdf" "thesis" 1682378943 0
-  "/Users/sarahwu/Desktop/Thesis Github/thesis.tex" 1682378940 87716 67760425e47efcea090f6a54feed0843 ""
+["pdflatex"] 1682382421 "/Users/sarahwu/Desktop/Thesis Github/thesis.tex" "thesis.pdf" "thesis" 1682382423 0
+  "/Users/sarahwu/Desktop/Thesis Github/thesis.tex" 1682382421 88157 01b3cf55933a17bedb9c3f09f844f792 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -171,14 +171,15 @@
   "CI_SRQ.png" 1682371563 183462 8c291d300c91eaaba39961efba3a8798 ""
   "DALLE_tired_student.png" 1668464464 1657163 b75aa27b2bc8568444ff786ead8bead8 ""
   "DALLE_tired_student1.png" 1668464520 1860530 d72e63c18f5c2ff6559ac138f940197d ""
+  "SRQ_dist.png" 1682381675 76971 3ec0c3a6d6e2716944ddc6f6fb0d2537 ""
   "chatgpt.png" 1682290141 285324 be6f6e7bbfee3b67ec2557e46e58ec49 ""
   "reedthesis.cls" 1383591362 8293 480a01b2533a1585368760477c470aa0 ""
-  "thesis.aux" 1682378943 9912 0fcc0d801ad69e44be261b4cdb815e22 "pdflatex"
-  "thesis.bbl" 1682378942 13231 bf65108cdd9e04e3bb6324582b428372 "bibtex thesis"
-  "thesis.lof" 1682378943 1533 b4c5c03f4533ccd8ff2bb9f65eb0f973 "pdflatex"
-  "thesis.lot" 1682378943 439 3db483cf181fa4f542583304f2abe97c "pdflatex"
-  "thesis.tex" 1682378940 87716 67760425e47efcea090f6a54feed0843 ""
-  "thesis.toc" 1682378943 1842 6a196f45b1ecf2e822bae54b1793ccd0 "pdflatex"
+  "thesis.aux" 1682382423 10150 86c63c400d672168ac9620650eba08f3 "pdflatex"
+  "thesis.bbl" 1682381849 13231 bf65108cdd9e04e3bb6324582b428372 "bibtex thesis"
+  "thesis.lof" 1682382423 1697 a7ddb988581f8701b399e65969dd5a2c "pdflatex"
+  "thesis.lot" 1682382423 439 3db483cf181fa4f542583304f2abe97c "pdflatex"
+  "thesis.tex" 1682382421 88157 01b3cf55933a17bedb9c3f09f844f792 ""
+  "thesis.toc" 1682382423 1842 35479b11b3b49ba9ceb74fc9eeb82ed7 "pdflatex"
   "weighted_dist.png" 1682372066 140922 ccf7bc311944ccbcde53b58109e84c2d ""
   (generated)
   "thesis.aux"

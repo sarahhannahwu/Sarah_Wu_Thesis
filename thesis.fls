@@ -741,6 +741,11 @@ INPUT ./weighted_dist.png
 INPUT weighted_dist.png
 INPUT ./weighted_dist.png
 INPUT ./weighted_dist.png
+INPUT ./SRQ_dist.png
+INPUT ./SRQ_dist.png
+INPUT SRQ_dist.png
+INPUT ./SRQ_dist.png
+INPUT ./SRQ_dist.png
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
