@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex thesis"] 1682385789 "thesis.aux" "thesis.bbl" "thesis" 1682386320 0
+["bibtex thesis"] 1682386815 "thesis.aux" "thesis.bbl" "thesis" 1682386816 0
   "./APA/apa-good.bst" 1587750047 29521 681759d6fea01a76087da65eae747ed5 ""
-  "./thesis.bib" 1682229859 14530 9f453c8767617e82fd65832d1c1d6a75 ""
-  "thesis.aux" 1682386320 10150 86c63c400d672168ac9620650eba08f3 "pdflatex"
+  "./thesis.bib" 1682386815 15166 b1f6c4b8e2c8300cbbb984277ed4560c ""
+  "thesis.aux" 1682386816 10316 3276278cd70f1732392b87f683d6eff8 "pdflatex"
   (generated)
   "thesis.bbl"
   "thesis.blg"
   (rewritten before read)
-["pdflatex"] 1682386319 "/Users/sarahwu/Desktop/Thesis Github/thesis.tex" "thesis.pdf" "thesis" 1682386320 0
+["pdflatex"] 1682386815 "/Users/sarahwu/Desktop/Thesis Github/thesis.tex" "thesis.pdf" "thesis" 1682386816 0
   "/Users/sarahwu/Desktop/Thesis Github/thesis.tex" 1682386319 88205 d8ec22931e5103734e5617d66d1ebda0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -174,12 +174,12 @@
   "SRQ_dist.png" 1682381675 76971 3ec0c3a6d6e2716944ddc6f6fb0d2537 ""
   "chatgpt.png" 1682290141 285324 be6f6e7bbfee3b67ec2557e46e58ec49 ""
   "reedthesis.cls" 1383591362 8293 480a01b2533a1585368760477c470aa0 ""
-  "thesis.aux" 1682386320 10150 86c63c400d672168ac9620650eba08f3 "pdflatex"
-  "thesis.bbl" 1682385789 13231 bf65108cdd9e04e3bb6324582b428372 "bibtex thesis"
-  "thesis.lof" 1682386320 1697 a7ddb988581f8701b399e65969dd5a2c "pdflatex"
-  "thesis.lot" 1682386320 439 3db483cf181fa4f542583304f2abe97c "pdflatex"
+  "thesis.aux" 1682386816 10316 3276278cd70f1732392b87f683d6eff8 "pdflatex"
+  "thesis.bbl" 1682386815 13793 343587957f023d36f405ed19be82cce7 "bibtex thesis"
+  "thesis.lof" 1682386816 1697 a7ddb988581f8701b399e65969dd5a2c "pdflatex"
+  "thesis.lot" 1682386816 439 3db483cf181fa4f542583304f2abe97c "pdflatex"
   "thesis.tex" 1682386319 88205 d8ec22931e5103734e5617d66d1ebda0 ""
-  "thesis.toc" 1682386320 1842 35479b11b3b49ba9ceb74fc9eeb82ed7 "pdflatex"
+  "thesis.toc" 1682386816 1842 35479b11b3b49ba9ceb74fc9eeb82ed7 "pdflatex"
   "weighted_dist.png" 1682372066 140922 ccf7bc311944ccbcde53b58109e84c2d ""
   (generated)
   "thesis.aux"
