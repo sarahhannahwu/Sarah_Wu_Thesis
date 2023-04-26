@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.2)  25 APR 2023 16:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.2)  25 APR 2023 17:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1050,7 +1050,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: MDS.png Graphic file (type png)
 <use MDS.png>
 Package pdftex.def Info: MDS.png  used on input line 567.
-(pdftex.def)             Requested size: 406.515pt x 406.515pt.
+(pdftex.def)             Requested size: 361.3436pt x 361.3436pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
