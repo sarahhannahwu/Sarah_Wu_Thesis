@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.2)  25 APR 2023 17:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.2)  25 APR 2023 23:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1046,11 +1046,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [34]
-<MDS.png, id=457, 903.375pt x 903.375pt>
+<MDS.png, id=457, 1392.20125pt x 1490.56876pt>
 File: MDS.png Graphic file (type png)
 <use MDS.png>
 Package pdftex.def Info: MDS.png  used on input line 567.
-(pdftex.def)             Requested size: 361.3436pt x 361.3436pt.
+(pdftex.def)             Requested size: 348.04945pt x 372.64128pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1082,11 +1082,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [37]
-<chatgpt.png, id=473, 800.49063pt x 595.22375pt>
+<chatgpt.png, id=473, 1603.9925pt x 1100.11pt>
 File: chatgpt.png Graphic file (type png)
 <use chatgpt.png>
 Package pdftex.def Info: chatgpt.png  used on input line 586.
-(pdftex.def)             Requested size: 400.24434pt x 297.61115pt.
+(pdftex.def)             Requested size: 400.99715pt x 275.02682pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1162,7 +1162,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,12n,89p,1592b,1083s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on thesis.pdf (59 pages, 4198399 bytes).
+Output written on thesis.pdf (59 pages, 4202809 bytes).
 PDF statistics:
  655 PDF objects out of 1000 (max. 8388607)
  552 compressed objects within 6 object streams
