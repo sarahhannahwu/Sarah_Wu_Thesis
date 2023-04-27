@@ -4,13 +4,18 @@
   \def\url#1{{\tt #1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{}\fi
 
+\bibitem[{Abell et~al.(2000)Abell, Happe, \& Frith}]{abell2000triangles}
+Abell, F., Happe, F., \& Frith, U. (2000).
+\newblock Do triangles play tricks? {Attribution} of mental states to animated shapes in normal and abnormal development.
+\newblock {\em Cognitive Development\/}, {\em 15\/}(1), 1--16.
+
 \bibitem[{Abu-Akel et~al.(2020)Abu-Akel, Apperly, Wood, \& Hansen}]{abu2020re}
 Abu-Akel, A.~M., Apperly, I.~A., Wood, S.~J., \& Hansen, P.~C. (2020).
 \newblock Re-imaging the intentional stance.
 \newblock {\em Proceedings of the Royal Society B\/}, {\em 287\/}(1925), 20200244.
 
-\bibitem[{Alm{\'e}n(2017)}]{almen2017theory}
-Alm{\'e}n, B. (2017).
+\bibitem[{Alm{\'e}n(2008)}]{almen2008theory}
+Alm{\'e}n, B. (2008).
 \newblock {\em A theory of musical narrative\/}.
 \newblock Indiana University Press.
 
@@ -78,11 +83,6 @@ Fischinger, T., Kaufmann, M., \& Schlotz, W. (2020).
 Friedman, R.~S., \& Taylor, C.~L. (2014).
 \newblock Exploring emotional responses to computationally-created music.
 \newblock {\em Psychology of Aesthetics, Creativity, and the Arts\/}, {\em 8\/}(1), 87.
-
-\bibitem[{Geraci et~al.(2021)Geraci, Rigo, Simonelli, Di~Nuovo, \& Simion}]{geraci2021preschoolers}
-Geraci, A., Rigo, P., Simonelli, A., Di~Nuovo, S., \& Simion, F. (2021).
-\newblock Preschoolers' evaluations of comforting actions towards third parties in different relationship contexts.
-\newblock {\em Journal of Applied Developmental Psychology\/}, {\em 76\/}, 101315.
 
 \bibitem[{Grace et~al.(2019)Grace, Huberth, \& Fujioka}]{grace2019effects}
 Grace, V., Huberth, M., \& Fujioka, T. (2019).
