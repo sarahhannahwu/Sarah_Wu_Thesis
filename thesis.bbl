@@ -1,4 +1,4 @@
-\begin{thebibliography}{54}
+\begin{thebibliography}{55}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -32,7 +32,7 @@ Bloom, P., \& Markson, L. (1998).
 \bibitem[{Boden(1998)}]{boden1998creativity}
 Boden, M.~A. (1998).
 \newblock Creativity and artificial intelligence.
-\newblock {\em Artificial intelligence\/}, {\em 103\/}(1-2), 347--356.
+\newblock {\em Artificial Intelligence\/}, {\em 103\/}(1-2), 347--356.
 
 \bibitem[{Boden(2010)}]{boden2010turing}
 Boden, M.~A. (2010).
@@ -76,7 +76,7 @@ Esling, P., \& Devis, N. (2020).
 
 \bibitem[{Fischinger et~al.(2020)Fischinger, Kaufmann, \& Schlotz}]{fischinger2020if}
 Fischinger, T., Kaufmann, M., \& Schlotz, W. (2020).
-\newblock If it’s {Mozart}, it must be good? the influence of textual information and age on musical appreciation.
+\newblock If it’s {Mozart}, it must be good? {The} influence of textual information and age on musical appreciation.
 \newblock {\em Psychology of Music\/}, {\em 48\/}(4), 579--597.
 
 \bibitem[{Friedman \& Taylor(2014)}]{friedman2014exploring}
@@ -188,6 +188,11 @@ Mikolov, T., Chen, K., Corrado, G., \& Dean, J. (2013).
 Morewedge, C.~K. (2022).
 \newblock Preference for human, not algorithm aversion.
 \newblock {\em Trends in Cognitive Sciences\/}.
+
+\bibitem[{M{\"u}llensiefen et~al.(2014)M{\"u}llensiefen, Gingras, Musil, \& Stewart}]{mullensiefen2014musicality}
+M{\"u}llensiefen, D., Gingras, B., Musil, J., \& Stewart, L. (2014).
+\newblock The musicality of non-musicians: An index for assessing musical sophistication in the general population.
+\newblock {\em PloS one\/}, {\em 9\/}(2), e89642.
 
 \bibitem[{Nguyen et~al.(2019)Nguyen, Vanderwal, \& Hasson}]{nguyen2019shared}
 Nguyen, M., Vanderwal, T., \& Hasson, U. (2019).
